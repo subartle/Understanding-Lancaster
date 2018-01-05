@@ -46,13 +46,14 @@ ui <- fluidPage(
 
 server <- function(input, output, session) {
   output$mymap <- renderLeaflet({
-    leaflet(data = Lancaster) %>% addTiles() %>%
+    leaflet(data = Lancaster) %>% 
+      addProviderTiles(providers$Stamen.Toner) %>%
       addPolygons(fillColor = ~pal(X16plus_U),
                   weight = 2,
                   opacity = 1,
                   color = "white",
                   dashArray = "3",
-                  fillOpacity = 0.7,
+                  fillOpacity = 0.6,
                   highlight = highlightOptions(
                     weight = 5,
                     color = "white",
@@ -64,18 +65,19 @@ server <- function(input, output, session) {
                     stylestyle = list("font-weight" = "normal", padding = "3px 8px"),
                     textsize = "15px",
                     direction = "auto")) %>% 
-      addLegend(pal = pal, values = ~X16plus_U, opacity = 0.7, title = NULL,
+      addLegend(pal = pal, values = ~X16plus_U, opacity = 0.7, title = "Unemployment Rate (Ages: 16+)",
                                                        position = "bottomright")
   })
     
     output$mymap2 <- renderLeaflet({
-      leaflet(data = Lancaster) %>% addTiles() %>%
+      leaflet(data = Lancaster) %>% 
+        addProviderTiles(providers$Stamen.Toner) %>%
         addPolygons(fillColor = ~pal2(X25to64_U),
                     weight = 2,
                     opacity = 1,
                     color = "white",
                     dashArray = "3",
-                    fillOpacity = 0.7,
+                    fillOpacity = 0.6,
                     highlight = highlightOptions(
                       weight = 5,
                       color = "white",
@@ -87,8 +89,9 @@ server <- function(input, output, session) {
                       stylestyle = list("font-weight" = "normal", padding = "3px 8px"),
                       textsize = "15px",
                       direction = "auto")) %>% 
-        addLegend(pal = pal2, values = ~X25to64_U, opacity = 0.7, title = NULL,
+        addLegend(pal = pal2, values = ~X25to64_U, opacity = 0.7, title = "Unemployment Rate (Ages: 25 - 64)",
                   position = "bottomright")  
   })
 }
+
 shinyApp(ui, server)
