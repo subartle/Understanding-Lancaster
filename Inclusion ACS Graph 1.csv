@@ -1,0 +1,61 @@
+Geography,Stat,Lable,Percent_Change,Stat2
+"Allentown city, Pennsylvania",55%,Employment Ratio,0.03,3%
+"Altoona city, Pennsylvania",54%,Employment Ratio,0.04,4%
+"Bethlehem city, Pennsylvania",56%,Employment Ratio,0.04,4%
+"Chester city, Pennsylvania",44%,Employment Ratio,-0.02,-2%
+"Erie city, Pennsylvania",54%,Employment Ratio,-0.02,-2%
+"Harrisburg city, Pennsylvania",54%,Employment Ratio,-0.04,-4%
+"Johnstown city, Pennsylvania",43%,Employment Ratio,-0.08,-8%
+"Lancaster city, Pennsylvania",56%,Employment Ratio,0.04,4%
+Pennsylvania,63%,Employment Ratio,-0.01,-1%
+"Philadelphia city, Pennsylvania",52%,Employment Ratio,0.02,2%
+"Reading city, Pennsylvania",50%,Employment Ratio,0.02,2%
+"Scranton city, Pennsylvania",52%,Employment Ratio,-0.03,-3%
+United States,63%,Employment Ratio,-0.02,-2%
+"Wilkes-Barre city, Pennsylvania",50%,Employment Ratio,-0.04,-4%
+"York city, Pennsylvania",52%,Employment Ratio,0.03,3%
+"Allentown city, Pennsylvania",13%,Unemployment Rate,-0.04,-4%
+"Altoona city, Pennsylvania",8%,Unemployment Rate,-0.28,-28%
+"Bethlehem city, Pennsylvania",7%,Unemployment Rate,-0.25,-25%
+"Chester city, Pennsylvania",19%,Unemployment Rate,0.15,15%
+"Erie city, Pennsylvania",9%,Unemployment Rate,-0.11,-11%
+"Harrisburg city, Pennsylvania",14%,Unemployment Rate,0.11,11%
+"Johnstown city, Pennsylvania",16%,Unemployment Rate,0.4,40%
+"Lancaster city, Pennsylvania",12%,Unemployment Rate,-0.06,-6%
+Pennsylvania,7%,Unemployment Rate,-0.09,-9%
+"Philadelphia city, Pennsylvania",13%,Unemployment Rate,-0.07,-7%
+"Reading city, Pennsylvania",19%,Unemployment Rate,0,0%
+"Scranton city, Pennsylvania",8%,Unemployment Rate,0.03,3%
+United States,7%,Unemployment Rate,-0.15,-15%
+"Wilkes-Barre city, Pennsylvania",11%,Unemployment Rate,0.3,30%
+"York city, Pennsylvania",13%,Unemployment Rate,-0.29,-29%
+"Allentown city, Pennsylvania","$37,256 ",Median household income,0.04,4%
+"Altoona city, Pennsylvania","$36,741 ",Median household income,0.05,5%
+"Bethlehem city, Pennsylvania","$49,349 ",Median household income,0.08,8%
+"Chester city, Pennsylvania","$27,217 ",Median household income,-0.02,-2%
+"Erie city, Pennsylvania","$35,205 ",Median household income,0.09,9%
+"Harrisburg city, Pennsylvania","$32,688 ",Median household income,-0.01,-1%
+"Johnstown city, Pennsylvania","$24,075 ",Median household income,-0.03,-3%
+"Lancaster city, Pennsylvania","$36,233 ",Median household income,0.09,9%
+Pennsylvania,"$54,895 ",Median household income,0.06,6%
+"Philadelphia city, Pennsylvania","$39,770 ",Median household income,0.08,8%
+"Reading city, Pennsylvania","$27,247 ",Median household income,-0.01,-1%
+"Scranton city, Pennsylvania","$38,232 ",Median household income,0.03,3%
+United States,"$55,322 ",Median household income,0.05,5%
+"Wilkes-Barre city, Pennsylvania","$31,248 ",Median household income,0.03,3%
+"York city, Pennsylvania","$30,068 ",Median household income,0.01,1%
+"Allentown city, Pennsylvania",11%,Estimate of Households in Relative Poverty,-0.1,-10%
+"Altoona city, Pennsylvania",10%,Estimate of Households in Relative Poverty,-0.11,-11%
+"Bethlehem city, Pennsylvania",14%,Estimate of Households in Relative Poverty,-0.14,-14%
+"Chester city, Pennsylvania",19%,Estimate of Households in Relative Poverty,-0.02,-2%
+"Erie city, Pennsylvania",12%,Estimate of Households in Relative Poverty,-0.03,-3%
+"Harrisburg city, Pennsylvania",15%,Estimate of Households in Relative Poverty,-0.04,-4%
+"Johnstown city, Pennsylvania",21%,Estimate of Households in Relative Poverty,0.18,18%
+"Lancaster city, Pennsylvania",12%,Estimate of Households in Relative Poverty,-0.03,-3%
+Pennsylvania,11%,Estimate of Households in Relative Poverty,-0.07,-7%
+"Philadelphia city, Pennsylvania",14%,Estimate of Households in Relative Poverty,-0.06,-6%
+"Reading city, Pennsylvania",16%,Estimate of Households in Relative Poverty,0,0%
+"Scranton city, Pennsylvania",10%,Estimate of Households in Relative Poverty,0.02,2%
+United States,12%,Estimate of Households in Relative Poverty,-0.03,-3%
+"Wilkes-Barre city, Pennsylvania",15%,Estimate of Households in Relative Poverty,-0.01,-1%
+"York city, Pennsylvania",16%,Estimate of Households in Relative Poverty,0.03,3%
