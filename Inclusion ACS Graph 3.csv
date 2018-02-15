@@ -1,59 +1,58 @@
-Description,Total_2016,Labor_Force_Participation_Rate_2016,Employment_Ratio_2016,Unemployment_Rate_2016,FilterOne,FilterTwo,
-Population 16 years and over,46252,0.64,0.56,0.12,2016,Age,
-Population 20 to 64 years,36374,0.73,0.65,0.11,2016,Age,
-Population 25 to 64 years,31093,0.74,0.68,0.09,2016,Age,
-White alone,29472,0.63,0.57,0.09,2016,Race,
-Black or African American alone,6839,0.69,0.54,0.21,2016,Race,
-American Indian and Alaska Native alone,131,0.59,0.51,0.13,2016,Race,
-Asian alone,1845,0.71,0.67,0.05,2016,Race,
-Some other race alone,6318,0.65,0.52,0.21,2016,Race,
-Two or more races,1647,0.53,0.50,0.05,2016,Race,
-Hispanic or Latino origin (of any race),16473,0.64,0.54,0.16,2016,Ethnicity,
-"White alone, not Hispanic or Latino",21356,0.63,0.59,0.07,2016,Ethnicity,
-Male,18427,0.74,0.66,0.12,2016,Gender,
-Female,17947,0.72,0.65,0.10,2016,Gender,
-Less than high school graduate,6731,0.55,0.45,0.18,2016,Education,
-High school graduate (includes equivalency),11107,0.72,0.65,0.10,2016,Education,
-Some college or associate's degree,6912,0.79,0.73,0.08,2016,Education,
-Bachelor's degree or higher,6343,0.94,0.91,0.03,2016,Education,
-Population 16 to 19 years,4225,0.46,0.30,0.35,2016,Age,
-Population 20 to 24 years,5281,0.65,0.51,0.22,2016,Age,
-Population 16 years and over,0.02,0.03,0.04,-0.06,Change,Age,
-Population 20 to 64 years,0.03,0.01,0.02,-0.06,Change,Age,
-Population 25 to 64 years,0.04,0.03,0.05,-0.13,Change,Age,
-White alone,-0.07,0.01,0.04,-0.21,Change,Race,
-Black or African American alone,-0.02,0.09,0.08,0.00,Change,Race,
-American Indian and Alaska Native alone,0.09,-0.31,-0.40,12.00,Change,Race,
-Asian alone,0.45,0.33,0.30,1.00,Change,Race,
-Some other race alone,0.46,0.11,0.04,0.36,Change,Race,
-Two or more races,0.50,-0.22,-0.10,-0.73,Change,Race,
-Hispanic or Latino origin (of any race),0.13,0.06,0.08,-0.07,Change,Ethnicity,
-"White alone, not Hispanic or Latino",-0.07,-0.01,0.00,-0.15,Change,Ethnicity,
-Male,0.08,0.01,0.02,-0.06,Change,Gender,
-Female,-0.01,0.02,0.03,-0.08,Change,Gender,
-Less than high school graduate,0.01,0.01,-0.02,0.16,Change,Education,
-High school graduate (includes equivalency),-0.06,0.02,0.03,-0.06,Change,Education,
-Some college or associate's degree,0.09,-0.01,0.04,-0.35,Change,Education,
-Bachelor's degree or higher,0.28,0.05,0.05,-0.09,Change,Education,
-Population 16 to 19 years,-0.13,0.19,0.20,-0.03,Change,Age,
-Population 20 to 24 years,-0.05,-0.10,-0.15,0.29,Change,Age,
-Population 16 years and over,45401,0.62,0.54,0.13,2011,Age,
-Population 20 to 64 years,35339,0.72,0.64,0.11,2011,Age,
-Population 25 to 64 years,29773,0.72,0.65,0.10,2011,Age,
-White alone,31541,0.62,0.55,0.11,2011,Race,
-Black or African American alone,6998,0.63,0.50,0.21,2011,Race,
-American Indian and Alaska Native alone,120,0.86,0.86,0.01,2011,Race,
-Asian alone,1275,0.53,0.52,0.02,2011,Race,
-Some other race alone,4319,0.59,0.50,0.15,2011,Race,
-Two or more races,1097,0.68,0.56,0.18,2011,Race,
-Hispanic or Latino origin (of any race),14575,0.60,0.50,0.17,2011,Ethnicity,
-"White alone, not Hispanic or Latino",22873,0.64,0.58,0.08,2011,Ethnicity,
-Male,17120,0.74,0.65,0.12,2011,Gender,
-Female,18219,0.70,0.63,0.10,2011,Gender,
-Less than high school graduate,6647,0.55,0.46,0.15,2011,Education,
-High school graduate (includes equivalency),11827,0.70,0.63,0.11,2011,Education,
-Some college or associate's degree,6348,0.80,0.70,0.12,2011,Education,
-Bachelor's degree or higher,4951,0.89,0.86,0.04,2011,Education,
-Population 16 to 19 years,4861,0.39,0.25,0.36,2011,Age,
-Population 20 to 24 years,5566,0.72,0.60,0.17,2011,Age,
-,,,,,,,
+Description,Total_2016,Labor_Force_Participation_Rate_2016,Employment_Ratio_2016,Unemployment_Rate_2016,FilterOne,FilterTwo,Color
+Population 16 years and over,46252,0.64,0.56,0.12,2016,Age,Black
+Population 20 to 64 years,36374,0.73,0.65,0.11,2016,Age,White
+Population 25 to 64 years,31093,0.74,0.68,0.09,2016,Age,White
+White alone,29472,0.63,0.57,0.09,2016,Race,White
+Black or African American alone,6839,0.69,0.54,0.21,2016,Race,White
+American Indian and Alaska Native alone,131,0.59,0.51,0.13,2016,Race,White
+Asian alone,1845,0.71,0.67,0.05,2016,Race,White
+Some other race alone,6318,0.65,0.52,0.21,2016,Race,White
+Two or more races,1647,0.53,0.5,0.05,2016,Race,White
+Hispanic or Latino origin (of any race),16473,0.64,0.54,0.16,2016,Ethnicity,White
+"White alone, not Hispanic or Latino",21356,0.63,0.59,0.07,2016,Ethnicity,White
+Male,18427,0.74,0.66,0.12,2016,Gender,White
+Female,17947,0.72,0.65,0.1,2016,Gender,White
+Less than high school graduate,6731,0.55,0.45,0.18,2016,Education,White
+High school graduate (includes equivalency),11107,0.72,0.65,0.1,2016,Education,White
+Some college or associate's degree,6912,0.79,0.73,0.08,2016,Education,White
+Bachelor's degree or higher,6343,0.94,0.91,0.03,2016,Education,White
+Population 16 to 19 years,4225,0.46,0.3,0.35,2016,Age,White
+Population 20 to 24 years,5281,0.65,0.51,0.22,2016,Age,White
+Population 16 years and over,0.02,0.03,0.04,-0.06,Change,Age,Black
+Population 20 to 64 years,0.03,0.01,0.02,-0.06,Change,Age,White
+Population 25 to 64 years,0.04,0.03,0.05,-0.13,Change,Age,White
+White alone,-0.07,0.01,0.04,-0.21,Change,Race,White
+Black or African American alone,-0.02,0.09,0.08,0,Change,Race,White
+American Indian and Alaska Native alone,0.09,-0.31,-0.4,12,Change,Race,White
+Asian alone,0.45,0.33,0.3,1,Change,Race,White
+Some other race alone,0.46,0.11,0.04,0.36,Change,Race,White
+Two or more races,0.5,-0.22,-0.1,-0.73,Change,Race,White
+Hispanic or Latino origin (of any race),0.13,0.06,0.08,-0.07,Change,Ethnicity,White
+"White alone, not Hispanic or Latino",-0.07,-0.01,0,-0.15,Change,Ethnicity,White
+Male,0.08,0.01,0.02,-0.06,Change,Gender,White
+Female,-0.01,0.02,0.03,-0.08,Change,Gender,White
+Less than high school graduate,0.01,0.01,-0.02,0.16,Change,Education,White
+High school graduate (includes equivalency),-0.06,0.02,0.03,-0.06,Change,Education,White
+Some college or associate's degree,0.09,-0.01,0.04,-0.35,Change,Education,White
+Bachelor's degree or higher,0.28,0.05,0.05,-0.09,Change,Education,White
+Population 16 to 19 years,-0.13,0.19,0.2,-0.03,Change,Age,White
+Population 20 to 24 years,-0.05,-0.1,-0.15,0.29,Change,Age,White
+Population 16 years and over,45401,0.62,0.54,0.13,2011,Age,Black
+Population 20 to 64 years,35339,0.72,0.64,0.11,2011,Age,White
+Population 25 to 64 years,29773,0.72,0.65,0.1,2011,Age,White
+White alone,31541,0.62,0.55,0.11,2011,Race,White
+Black or African American alone,6998,0.63,0.5,0.21,2011,Race,White
+American Indian and Alaska Native alone,120,0.86,0.86,0.01,2011,Race,White
+Asian alone,1275,0.53,0.52,0.02,2011,Race,White
+Some other race alone,4319,0.59,0.5,0.15,2011,Race,White
+Two or more races,1097,0.68,0.56,0.18,2011,Race,White
+Hispanic or Latino origin (of any race),14575,0.6,0.5,0.17,2011,Ethnicity,White
+"White alone, not Hispanic or Latino",22873,0.64,0.58,0.08,2011,Ethnicity,White
+Male,17120,0.74,0.65,0.12,2011,Gender,White
+Female,18219,0.7,0.63,0.1,2011,Gender,White
+Less than high school graduate,6647,0.55,0.46,0.15,2011,Education,White
+High school graduate (includes equivalency),11827,0.7,0.63,0.11,2011,Education,White
+Some college or associate's degree,6348,0.8,0.7,0.12,2011,Education,White
+Bachelor's degree or higher,4951,0.89,0.86,0.04,2011,Education,White
+Population 16 to 19 years,4861,0.39,0.25,0.36,2011,Age,White
+Population 20 to 24 years,5566,0.72,0.6,0.17,2011,Age,White
