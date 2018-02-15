@@ -1,5 +1,9 @@
 Description,Total_2016,Labor_Force_Participation_Rate_2016,Employment_Ratio_2016,Unemployment_Rate_2016,FilterOne,FilterTwo,Color
 Population 16 years and over,46252,0.64,0.56,0.12,2016,Age,Black
+Population 16 years and over,46252,0.64,0.56,0.12,2016,Race,Black
+Population 16 years and over,46252,0.64,0.56,0.12,2016,Ethnicity,Black
+Population 16 years and over,46252,0.64,0.56,0.12,2016,Gender,Black
+Population 16 years and over,46252,0.64,0.56,0.12,2016,Education,Black
 Population 20 to 64 years,36374,0.73,0.65,0.11,2016,Age,White
 Population 25 to 64 years,31093,0.74,0.68,0.09,2016,Age,White
 White alone,29472,0.63,0.57,0.09,2016,Race,White
@@ -19,6 +23,10 @@ Bachelor's degree or higher,6343,0.94,0.91,0.03,2016,Education,White
 Population 16 to 19 years,4225,0.46,0.3,0.35,2016,Age,White
 Population 20 to 24 years,5281,0.65,0.51,0.22,2016,Age,White
 Population 16 years and over,0.02,0.03,0.04,-0.06,Change,Age,Black
+Population 16 years and over,0.02,0.03,0.04,-0.06,Change,Race,Black
+Population 16 years and over,0.02,0.03,0.04,-0.06,Change,Ethnicity,Black
+Population 16 years and over,0.02,0.03,0.04,-0.06,Change,Gender,Black
+Population 16 years and over,0.02,0.03,0.04,-0.06,Change,Education,Black
 Population 20 to 64 years,0.03,0.01,0.02,-0.06,Change,Age,White
 Population 25 to 64 years,0.04,0.03,0.05,-0.13,Change,Age,White
 White alone,-0.07,0.01,0.04,-0.21,Change,Race,White
@@ -38,6 +46,10 @@ Bachelor's degree or higher,0.28,0.05,0.05,-0.09,Change,Education,White
 Population 16 to 19 years,-0.13,0.19,0.2,-0.03,Change,Age,White
 Population 20 to 24 years,-0.05,-0.1,-0.15,0.29,Change,Age,White
 Population 16 years and over,45401,0.62,0.54,0.13,2011,Age,Black
+Population 16 years and over,45401,0.62,0.54,0.13,2011,Race,Black
+Population 16 years and over,45401,0.62,0.54,0.13,2011,Ethnicity,Black
+Population 16 years and over,45401,0.62,0.54,0.13,2011,Gender,Black
+Population 16 years and over,45401,0.62,0.54,0.13,2011,Education,Black
 Population 20 to 64 years,35339,0.72,0.64,0.11,2011,Age,White
 Population 25 to 64 years,29773,0.72,0.65,0.1,2011,Age,White
 White alone,31541,0.62,0.55,0.11,2011,Race,White
