@@ -46,25 +46,25 @@ Hispanic or Latino origin (of any race),16473,0.64,0.54,0.16,2016,Ethnicity, ,Wh
 Male,18427,0.74,0.66,0.12,2016,Gender, ,White,green
 "White alone, not Hispanic or Latino",21356,0.63,0.59,0.07,2016,Ethnicity, ,White,green
 Population 16 years and over,0.02,0.03,0.04,-0.06,% Change from 2011 - 2016,Age,  ,Black,black
-Population 16 years and over,0.02,0.03,0.04,-0.06,% Change from 2011 - 2017,Race,  ,Black,black
-Population 16 years and over,0.02,0.03,0.04,-0.06,% Change from 2011 - 2018,Education,  ,Black,black
-Population 16 years and over,0.02,0.03,0.04,-0.06,% Change from 2011 - 2019,Ethnicity,  ,Black,black
-Population 16 years and over,0.02,0.03,0.04,-0.06,% Change from 2011 - 2020,Gender,  ,Black,black
-American Indian and Alaska Native alone,0.09,-0.31,-0.4,12,% Change from 2011 - 2021,Race, ,White,blue
-High school graduate (includes equivalency),-0.06,0.02,0.03,-0.06,% Change from 2011 - 2022,Education, ,White,blue
-Population 16 to 19 years,-0.13,0.19,0.2,-0.03,% Change from 2011 - 2023,Age, ,White,blue
-Bachelor's degree or higher,0.28,0.05,0.05,-0.09,% Change from 2011 - 2024,Education, ,White,green
-Black or African American alone,-0.02,0.09,0.08,0,% Change from 2011 - 2025,Race, ,White,green
-Population 20 to 64 years,0.03,0.01,0.02,-0.06,% Change from 2011 - 2026,Age, ,White,green
-White alone,-0.07,0.01,0.04,-0.21,% Change from 2011 - 2027,Race, ,White,grey
-Less than high school graduate,0.01,0.01,-0.02,0.16,% Change from 2011 - 2028,Education, ,White,orange
-Population 20 to 24 years,-0.05,-0.1,-0.15,0.29,% Change from 2011 - 2029,Age, ,White,orange
-Some other race alone,0.46,0.11,0.04,0.36,% Change from 2011 - 2030,Race, ,White,orange
-Asian alone,0.45,0.33,0.3,1,% Change from 2011 - 2031,Race, ,White,red
-Population 25 to 64 years,0.04,0.03,0.05,-0.13,% Change from 2011 - 2032,Age, ,White,grey
-Some college or associate's degree,0.09,-0.01,0.04,-0.35,% Change from 2011 - 2033,Education, ,White,grey
-Two or more races,0.5,-0.22,-0.1,-0.73,% Change from 2011 - 2034,Race, ,White,yellow
-Female,-0.01,0.02,0.03,-0.08,% Change from 2011 - 2035,Gender, ,White,blue
-Hispanic or Latino origin (of any race),0.13,0.06,0.08,-0.07,% Change from 2011 - 2036,Ethnicity, ,White,blue
-Male,0.08,0.01,0.02,-0.06,% Change from 2011 - 2037,Gender, ,White,green
-"White alone, not Hispanic or Latino",-0.07,-0.01,0,-0.15,% Change from 2011 - 2038,Ethnicity, ,White,green
+Population 16 years and over,0.02,0.03,0.04,-0.06,% Change from 2011 - 2016,Race,  ,Black,black
+Population 16 years and over,0.02,0.03,0.04,-0.06,% Change from 2011 - 2016,Education,  ,Black,black
+Population 16 years and over,0.02,0.03,0.04,-0.06,% Change from 2011 - 2016,Ethnicity,  ,Black,black
+Population 16 years and over,0.02,0.03,0.04,-0.06,% Change from 2011 - 2016,Gender,  ,Black,black
+American Indian and Alaska Native alone,0.09,-0.31,-0.4,12,% Change from 2011 - 2016,Race, ,White,blue
+High school graduate (includes equivalency),-0.06,0.02,0.03,-0.06,% Change from 2011 - 2016,Education, ,White,blue
+Population 16 to 19 years,-0.13,0.19,0.2,-0.03,% Change from 2011 - 2016,Age, ,White,blue
+Bachelor's degree or higher,0.28,0.05,0.05,-0.09,% Change from 2011 - 2016,Education, ,White,green
+Black or African American alone,-0.02,0.09,0.08,0,% Change from 2011 - 2016,Race, ,White,green
+Population 20 to 64 years,0.03,0.01,0.02,-0.06,% Change from 2011 - 2016,Age, ,White,green
+White alone,-0.07,0.01,0.04,-0.21,% Change from 2011 - 2016,Race, ,White,grey
+Less than high school graduate,0.01,0.01,-0.02,0.16,% Change from 2011 - 2016,Education, ,White,orange
+Population 20 to 24 years,-0.05,-0.1,-0.15,0.29,% Change from 2011 - 2016,Age, ,White,orange
+Some other race alone,0.46,0.11,0.04,0.36,% Change from 2011 - 2016,Race, ,White,orange
+Asian alone,0.45,0.33,0.3,1,% Change from 2011 - 2016,Race, ,White,red
+Population 25 to 64 years,0.04,0.03,0.05,-0.13,% Change from 2011 - 2016,Age, ,White,grey
+Some college or associate's degree,0.09,-0.01,0.04,-0.35,% Change from 2011 - 2016,Education, ,White,grey
+Two or more races,0.5,-0.22,-0.1,-0.73,% Change from 2011 - 2016,Race, ,White,yellow
+Female,-0.01,0.02,0.03,-0.08,% Change from 2011 - 2016,Gender, ,White,blue
+Hispanic or Latino origin (of any race),0.13,0.06,0.08,-0.07,% Change from 2011 - 2016,Ethnicity, ,White,blue
+Male,0.08,0.01,0.02,-0.06,% Change from 2011 - 2016,Gender, ,White,green
+"White alone, not Hispanic or Latino",-0.07,-0.01,0,-0.15,% Change from 2011 - 2016,Ethnicity, ,White,green
