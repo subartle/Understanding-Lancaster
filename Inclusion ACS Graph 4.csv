@@ -29,21 +29,21 @@ Asian,111,0,12,12,2011,Race
 Asian,59,0,14,14,2011,Race
 Asian,68,0.06,118.05,118.05,2011,Race
 Asian,0,-,147,147,2011,Race
-Bachelor's degree or higher,243,0,1,1,2011,Education
-Bachelor's degree or higher,232,0.04,2,2,2011,Education
-Bachelor's degree or higher,456,0,3,3,2011,Education
-Bachelor's degree or higher,516,0,4,4,2011,Education
-Bachelor's degree or higher,564,0.02,5,5,2011,Education
-Bachelor's degree or higher,565,0.06,6,6,2011,Education
-Bachelor's degree or higher,339,0.11,7,7,2011,Education
-Bachelor's degree or higher,133,0,8,8,2011,Education
-Bachelor's degree or higher,253,0,9,9,2011,Education
-Bachelor's degree or higher,117,0,10,10,2011,Education
-Bachelor's degree or higher,401,0.12,11,11,2011,Education
-Bachelor's degree or higher,339,0.03,12,12,2011,Education
-Bachelor's degree or higher,113,0,14,14,2011,Education
-Bachelor's degree or higher,389,0.02,118.05,118.05,2011,Education
-Bachelor's degree or higher,100,0,147,147,2011,Education
+Bachelors degree or higher,243,0,1,1,2011,Education
+Bachelors degree or higher,232,0.04,2,2,2011,Education
+Bachelors degree or higher,456,0,3,3,2011,Education
+Bachelors degree or higher,516,0,4,4,2011,Education
+Bachelors degree or higher,564,0.02,5,5,2011,Education
+Bachelors degree or higher,565,0.06,6,6,2011,Education
+Bachelors degree or higher,339,0.11,7,7,2011,Education
+Bachelors degree or higher,133,0,8,8,2011,Education
+Bachelors degree or higher,253,0,9,9,2011,Education
+Bachelors degree or higher,117,0,10,10,2011,Education
+Bachelors degree or higher,401,0.12,11,11,2011,Education
+Bachelors degree or higher,339,0.03,12,12,2011,Education
+Bachelors degree or higher,113,0,14,14,2011,Education
+Bachelors degree or higher,389,0.02,118.05,118.05,2011,Education
+Bachelors degree or higher,100,0,147,147,2011,Education
 Black or African American,141,0.18,1,1,2011,Race
 Black or African American,267,0.56,2,2,2011,Race
 Black or African American,545,0.12,3,3,2011,Race
@@ -74,21 +74,21 @@ Female,1519,0.02,12,12,2011,Gender
 Female,1440,0.15,14,14,2011,Gender
 Female,741,0.04,118.05,118.05,2011,Gender
 Female,1244,0.24,147,147,2011,Gender
-High school graduate (includes equivalency),454,0.01,1,1,2011,Education
-High school graduate (includes equivalency),696,0.05,2,2,2011,Education
-High school graduate (includes equivalency),1083,0.15,3,3,2011,Education
-High school graduate (includes equivalency),796,0.03,4,4,2011,Education
-High school graduate (includes equivalency),678,0.05,5,5,2011,Education
-High school graduate (includes equivalency),629,0.06,6,6,2011,Education
-High school graduate (includes equivalency),1135,0.19,7,7,2011,Education
-High school graduate (includes equivalency),597,0.15,8,8,2011,Education
-High school graduate (includes equivalency),645,0.3,9,9,2011,Education
-High school graduate (includes equivalency),945,0.11,10,10,2011,Education
-High school graduate (includes equivalency),771,0.07,11,11,2011,Education
-High school graduate (includes equivalency),1143,0.06,12,12,2011,Education
-High school graduate (includes equivalency),1045,0.1,14,14,2011,Education
-High school graduate (includes equivalency),336,0,118.05,118.05,2011,Education
-High school graduate (includes equivalency),616,0.22,147,147,2011,Education
+Bachelors degree or higher,402,0.06,1,1,2016,Education
+Bachelors degree or higher,445,0,2,2,2016,Education
+Bachelors degree or higher,643,0.07,3,3,2016,Education
+Bachelors degree or higher,732,0,4,4,2016,Education
+Bachelors degree or higher,782,0.01,5,5,2016,Education
+Bachelors degree or higher,814,0.01,6,6,2016,Education
+Bachelors degree or higher,340,0,7,7,2016,Education
+Bachelors degree or higher,170,0.05,8,8,2016,Education
+Bachelors degree or higher,154,0,9,9,2016,Education
+Bachelors degree or higher,169,0,10,10,2016,Education
+Bachelors degree or higher,383,0,11,11,2016,Education
+Bachelors degree or higher,385,0.04,12,12,2016,Education
+Bachelors degree or higher,127,0.22,14,14,2016,Education
+Bachelors degree or higher,350,0.03,118.05,118.05,2016,Education
+Bachelors degree or higher,101,0.06,147,147,2016,Education
 Hispanic or Latino origin,484,0.25,1,1,2011,Ethnicity
 Hispanic or Latino origin,567,0.02,2,2,2011,Ethnicity
 Hispanic or Latino origin,1008,0.29,3,3,2011,Ethnicity
@@ -104,21 +104,21 @@ Hispanic or Latino origin,937,0.08,12,12,2011,Ethnicity
 Hispanic or Latino origin,1748,0.11,14,14,2011,Ethnicity
 Hispanic or Latino origin,308,0.06,118.05,118.05,2011,Ethnicity
 Hispanic or Latino origin,1609,0.27,147,147,2011,Ethnicity
-Less than high school graduate,177,0.32,1,1,2011,Education
-Less than high school graduate,271,0,2,2,2011,Education
-Less than high school graduate,285,0.15,3,3,2011,Education
-Less than high school graduate,396,0.18,4,4,2011,Education
-Less than high school graduate,223,0.2,5,5,2011,Education
-Less than high school graduate,266,0.1,6,6,2011,Education
-Less than high school graduate,910,0.18,7,7,2011,Education
-Less than high school graduate,624,0.12,8,8,2011,Education
-Less than high school graduate,427,0.14,9,9,2011,Education
-Less than high school graduate,587,0.19,10,10,2011,Education
-Less than high school graduate,406,0,11,11,2011,Education
-Less than high school graduate,334,0.08,12,12,2011,Education
-Less than high school graduate,819,0.2,14,14,2011,Education
-Less than high school graduate,158,0.13,118.05,118.05,2011,Education
-Less than high school graduate,747,0.21,147,147,2011,Education
+Bachelors degree or higher,NA,NA,1,1,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.65,-1,2,2,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.92,NA,3,3,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.41,NA,4,4,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.42,-0.45,5,5,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.39,-0.79,6,6,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.44,-1,7,7,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0,NA,8,8,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.28,NA,9,9,% Change from 2011 - 2016,Education
+Bachelors degree or higher,-0.39,NA,10,10,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.44,-1,11,11,% Change from 2011 - 2016,Education
+Bachelors degree or higher,-0.04,0.59,12,12,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.14,NA,14,14,% Change from 2011 - 2016,Education
+Bachelors degree or higher,0.12,0.25,118.05,118.05,% Change from 2011 - 2016,Education
+Black or African American,-0.87,NA,147,147,% Change from 2011 - 2016,Education
 Male,777,0.21,1,1,2011,Gender
 Male,824,0.16,2,2,2011,Gender
 Male,1380,0.1,3,3,2011,Gender
@@ -194,21 +194,21 @@ Population 25 to 64 years,2503,0.05,12,12,2011,Age
 Population 25 to 64 years,2446,0.12,14,14,2011,Age
 Population 25 to 64 years,1175,0.03,118.05,118.05,2011,Age
 Population 25 to 64 years,1761,0.19,147,147,2011,Age
-Some college or associate's degree,380,0.43,1,1,2011,Education
-Some college or associate's degree,232,0,2,2,2011,Education
-Some college or associate's degree,738,0.19,3,3,2011,Education
-Some college or associate's degree,310,0,4,4,2011,Education
-Some college or associate's degree,548,0.24,5,5,2011,Education
-Some college or associate's degree,465,0.03,6,6,2011,Education
-Some college or associate's degree,436,0.11,7,7,2011,Education
-Some college or associate's degree,353,0.21,8,8,2011,Education
-Some college or associate's degree,279,0.35,9,9,2011,Education
-Some college or associate's degree,392,0.13,10,10,2011,Education
-Some college or associate's degree,370,0,11,11,2011,Education
-Some college or associate's degree,687,0.02,12,12,2011,Education
-Some college or associate's degree,469,0.06,14,14,2011,Education
-Some college or associate's degree,292,0.05,118.05,118.05,2011,Education
-Some college or associate's degree,298,0.14,147,147,2011,Education
+High school graduate (includes equivalency),454,0.01,1,1,2011,Education
+High school graduate (includes equivalency),696,0.05,2,2,2011,Education
+High school graduate (includes equivalency),1083,0.15,3,3,2011,Education
+High school graduate (includes equivalency),796,0.03,4,4,2011,Education
+High school graduate (includes equivalency),678,0.05,5,5,2011,Education
+High school graduate (includes equivalency),629,0.06,6,6,2011,Education
+High school graduate (includes equivalency),1135,0.19,7,7,2011,Education
+High school graduate (includes equivalency),597,0.15,8,8,2011,Education
+High school graduate (includes equivalency),645,0.3,9,9,2011,Education
+High school graduate (includes equivalency),945,0.11,10,10,2011,Education
+High school graduate (includes equivalency),771,0.07,11,11,2011,Education
+High school graduate (includes equivalency),1143,0.06,12,12,2011,Education
+High school graduate (includes equivalency),1045,0.1,14,14,2011,Education
+High school graduate (includes equivalency),336,0,118.05,118.05,2011,Education
+High school graduate (includes equivalency),616,0.22,147,147,2011,Education
 Some other race,143,0,1,1,2011,Race
 Some other race,83,0,2,2,2011,Race
 Some other race,452,0.33,3,3,2011,Race
@@ -269,21 +269,21 @@ Asian,130,0.08,12,12,2016,Race
 Asian,29,0,14,14,2016,Race
 Asian,99,0,118.05,118.05,2016,Race
 Asian,101,0.33,147,147,2016,Race
-Bachelor's degree or higher,402,0.06,1,1,2016,Education
-Bachelor's degree or higher,445,0,2,2,2016,Education
-Bachelor's degree or higher,643,0.07,3,3,2016,Education
-Bachelor's degree or higher,732,0,4,4,2016,Education
-Bachelor's degree or higher,782,0.01,5,5,2016,Education
-Bachelor's degree or higher,814,0.01,6,6,2016,Education
-Bachelor's degree or higher,340,0,7,7,2016,Education
-Bachelor's degree or higher,170,0.05,8,8,2016,Education
-Bachelor's degree or higher,154,0,9,9,2016,Education
-Bachelor's degree or higher,169,0,10,10,2016,Education
-Bachelor's degree or higher,383,0,11,11,2016,Education
-Bachelor's degree or higher,385,0.04,12,12,2016,Education
-Bachelor's degree or higher,127,0.22,14,14,2016,Education
-Bachelor's degree or higher,350,0.03,118.05,118.05,2016,Education
-Bachelor's degree or higher,101,0.06,147,147,2016,Education
+High school graduate (includes equivalency),372,0.15,1,1,2016,Education
+High school graduate (includes equivalency),357,0.08,2,2,2016,Education
+High school graduate (includes equivalency),1028,0,3,3,2016,Education
+High school graduate (includes equivalency),729,0.05,4,4,2016,Education
+High school graduate (includes equivalency),546,0.11,5,5,2016,Education
+High school graduate (includes equivalency),479,0.12,6,6,2016,Education
+High school graduate (includes equivalency),1132,0.06,7,7,2016,Education
+High school graduate (includes equivalency),790,0.16,8,8,2016,Education
+High school graduate (includes equivalency),676,0.1,9,9,2016,Education
+High school graduate (includes equivalency),794,0.14,10,10,2016,Education
+High school graduate (includes equivalency),704,0.05,11,11,2016,Education
+High school graduate (includes equivalency),1294,0.09,12,12,2016,Education
+High school graduate (includes equivalency),921,0.11,14,14,2016,Education
+High school graduate (includes equivalency),409,0.16,118.05,118.05,2016,Education
+High school graduate (includes equivalency),930,0.19,147,147,2016,Education
 Black or African American,284,0.47,1,1,2016,Race
 Black or African American,251,0.23,2,2,2016,Race
 Black or African American,555,0.12,3,3,2016,Race
@@ -314,21 +314,21 @@ Female,1872,0.1,12,12,2016,Gender
 Female,1366,0.13,14,14,2016,Gender
 Female,748,0.05,118.05,118.05,2016,Gender
 Female,1416,0.15,147,147,2016,Gender
-High school graduate (includes equivalency),372,0.15,1,1,2016,Education
-High school graduate (includes equivalency),357,0.08,2,2,2016,Education
-High school graduate (includes equivalency),1028,0,3,3,2016,Education
-High school graduate (includes equivalency),729,0.05,4,4,2016,Education
-High school graduate (includes equivalency),546,0.11,5,5,2016,Education
-High school graduate (includes equivalency),479,0.12,6,6,2016,Education
-High school graduate (includes equivalency),1132,0.06,7,7,2016,Education
-High school graduate (includes equivalency),790,0.16,8,8,2016,Education
-High school graduate (includes equivalency),676,0.1,9,9,2016,Education
-High school graduate (includes equivalency),794,0.14,10,10,2016,Education
-High school graduate (includes equivalency),704,0.05,11,11,2016,Education
-High school graduate (includes equivalency),1294,0.09,12,12,2016,Education
-High school graduate (includes equivalency),921,0.11,14,14,2016,Education
-High school graduate (includes equivalency),409,0.16,118.05,118.05,2016,Education
-High school graduate (includes equivalency),930,0.19,147,147,2016,Education
+High school graduate (includes equivalency),0.14,10.46,1,1,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),-0.18,0.61,2,2,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),-0.49,-1,3,3,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),-0.05,0.64,4,4,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),-0.08,1.28,5,5,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),-0.19,1.12,6,6,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),-0.24,-0.69,7,7,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),0,0.06,8,8,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),0.32,-0.68,9,9,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),0.05,0.27,10,10,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),-0.16,-0.34,11,11,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),-0.09,0.45,12,12,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),0.13,0.08,14,14,% Change from 2011 - 2016,Education
+High school graduate (includes equivalency),-0.12,NA,118.05,118.05,% Change from 2011 - 2016,Education
+Hispanic or Latino origin,-0.1,-0.15,147,147,% Change from 2011 - 2016,Race
 Hispanic or Latino origin,615,0.19,1,1,2016,Ethnicity
 Hispanic or Latino origin,900,0.45,2,2,2016,Ethnicity
 Hispanic or Latino origin,1319,0.13,3,3,2016,Ethnicity
@@ -344,21 +344,21 @@ Hispanic or Latino origin,1604,0.15,12,12,2016,Ethnicity
 Hispanic or Latino origin,1664,0.14,14,14,2016,Ethnicity
 Hispanic or Latino origin,276,0.39,118.05,118.05,2016,Ethnicity
 Hispanic or Latino origin,2070,0.17,147,147,2016,Ethnicity
-Less than high school graduate,417,0.26,1,1,2016,Education
-Less than high school graduate,576,0.19,2,2,2016,Education
-Less than high school graduate,519,0.4,3,3,2016,Education
-Less than high school graduate,311,0.08,4,4,2016,Education
-Less than high school graduate,133,0.45,5,5,2016,Education
-Less than high school graduate,220,0,6,6,2016,Education
-Less than high school graduate,814,0.14,7,7,2016,Education
-Less than high school graduate,531,0,8,8,2016,Education
-Less than high school graduate,493,0.22,9,9,2016,Education
-Less than high school graduate,524,0.1,10,10,2016,Education
-Less than high school graduate,153,0.14,11,11,2016,Education
-Less than high school graduate,478,0.16,12,12,2016,Education
-Less than high school graduate,681,0.36,14,14,2016,Education
-Less than high school graduate,94,0.2,118.05,118.05,2016,Education
-Less than high school graduate,825,0.2,147,147,2016,Education
+Less than high school graduate,177,0.32,1,1,2011,Education
+Less than high school graduate,271,0,2,2,2011,Education
+Less than high school graduate,285,0.15,3,3,2011,Education
+Less than high school graduate,396,0.18,4,4,2011,Education
+Less than high school graduate,223,0.2,5,5,2011,Education
+Less than high school graduate,266,0.1,6,6,2011,Education
+Less than high school graduate,910,0.18,7,7,2011,Education
+Less than high school graduate,624,0.12,8,8,2011,Education
+Less than high school graduate,427,0.14,9,9,2011,Education
+Less than high school graduate,587,0.19,10,10,2011,Education
+Less than high school graduate,406,0,11,11,2011,Education
+Less than high school graduate,334,0.08,12,12,2011,Education
+Less than high school graduate,819,0.2,14,14,2011,Education
+Less than high school graduate,158,0.13,118.05,118.05,2011,Education
+Less than high school graduate,747,0.21,147,147,2011,Education
 Male,858,0.12,1,1,2016,Gender
 Male,1073,0.2,2,2,2016,Gender
 Male,1707,0.09,3,3,2016,Gender
@@ -434,21 +434,21 @@ Population 25 to 64 years,3006,0.08,12,12,2016,Age
 Population 25 to 64 years,2254,0.14,14,14,2016,Age
 Population 25 to 64 years,1157,0.13,118.05,118.05,2016,Age
 Population 25 to 64 years,2059,0.17,147,147,2016,Age
-Some college or associate's degree,304,0.09,1,1,2016,Education
-Some college or associate's degree,425,0,2,2,2016,Education
-Some college or associate's degree,764,0.01,3,3,2016,Education
-Some college or associate's degree,339,0.09,4,4,2016,Education
-Some college or associate's degree,460,0.03,5,5,2016,Education
-Some college or associate's degree,493,0.09,6,6,2016,Education
-Some college or associate's degree,511,0.05,7,7,2016,Education
-Some college or associate's degree,412,0.06,8,8,2016,Education
-Some college or associate's degree,507,0.15,9,9,2016,Education
-Some college or associate's degree,374,0.31,10,10,2016,Education
-Some college or associate's degree,392,0.19,11,11,2016,Education
-Some college or associate's degree,849,0.04,12,12,2016,Education
-Some college or associate's degree,525,0.05,14,14,2016,Education
-Some college or associate's degree,304,0.2,118.05,118.05,2016,Education
-Some college or associate's degree,203,0,147,147,2016,Education
+Less than high school graduate,417,0.26,1,1,2016,Education
+Less than high school graduate,576,0.19,2,2,2016,Education
+Less than high school graduate,519,0.4,3,3,2016,Education
+Less than high school graduate,311,0.08,4,4,2016,Education
+Less than high school graduate,133,0.45,5,5,2016,Education
+Less than high school graduate,220,0,6,6,2016,Education
+Less than high school graduate,814,0.14,7,7,2016,Education
+Less than high school graduate,531,0,8,8,2016,Education
+Less than high school graduate,493,0.22,9,9,2016,Education
+Less than high school graduate,524,0.1,10,10,2016,Education
+Less than high school graduate,153,0.14,11,11,2016,Education
+Less than high school graduate,478,0.16,12,12,2016,Education
+Less than high school graduate,681,0.36,14,14,2016,Education
+Less than high school graduate,94,0.2,118.05,118.05,2016,Education
+Less than high school graduate,825,0.2,147,147,2016,Education
 Some other race,181,0.09,1,1,2016,Race
 Some other race,461,0.58,2,2,2016,Race
 Some other race,552,0.31,3,3,2016,Race
@@ -508,20 +508,20 @@ Asian,NA,NA,12,12,% Change from 2011 - 2016,Race
 Asian,NA,NA,14,14,% Change from 2011 - 2016,Race
 Asian,NA,NA,118.05,118.05,% Change from 2011 - 2016,Race
 Asian,NA,NA,147,147,% Change from 2011 - 2016,Race
-Bachelor's degree or higher,NA,NA,1,1,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.65,-1,2,2,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.92,NA,3,3,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.41,NA,4,4,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.42,-0.45,5,5,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.39,-0.79,6,6,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.44,-1,7,7,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0,NA,8,8,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.28,NA,9,9,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,-0.39,NA,10,10,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.44,-1,11,11,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,-0.04,0.59,12,12,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.14,NA,14,14,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,0.12,0.25,118.05,118.05,% Change from 2011 - 2016,Education
+Less than high school graduate,0.29,-0.2,1,1,% Change from 2011 - 2016,Education
+Less than high school graduate,1.36,NA,2,2,% Change from 2011 - 2016,Education
+Less than high school graduate,1.13,1.68,3,3,% Change from 2011 - 2016,Education
+Less than high school graduate,0.82,-0.56,4,4,% Change from 2011 - 2016,Education
+Less than high school graduate,-0.21,1.27,5,5,% Change from 2011 - 2016,Education
+Less than high school graduate,-0.4,-1,6,6,% Change from 2011 - 2016,Education
+Less than high school graduate,-0.17,-0.21,7,7,% Change from 2011 - 2016,Education
+Less than high school graduate,-0.11,-1,8,8,% Change from 2011 - 2016,Education
+Less than high school graduate,-0.15,0.55,9,9,% Change from 2011 - 2016,Education
+Less than high school graduate,0.15,-0.49,10,10,% Change from 2011 - 2016,Education
+Less than high school graduate,-0.11,NA,11,11,% Change from 2011 - 2016,Education
+Less than high school graduate,-0.62,1,12,12,% Change from 2011 - 2016,Education
+Less than high school graduate,0.43,0.77,14,14,% Change from 2011 - 2016,Education
+Less than high school graduate,-0.17,0.62,118.05,118.05,% Change from 2011 - 2016,Education
 Bachelor's degree or higher,-0.1,NA,147,147,% Change from 2011 - 2016,Race
 Black or African American,0.01,1.69,1,1,% Change from 2011 - 2016,Race
 Black or African American,1.01,-0.58,2,2,% Change from 2011 - 2016,Race
@@ -537,7 +537,7 @@ Black or African American,0.02,0.5,11,11,% Change from 2011 - 2016,Race
 Black or African American,-0.48,-0.4,12,12,% Change from 2011 - 2016,Race
 Black or African American,1.03,-0.44,14,14,% Change from 2011 - 2016,Race
 Black or African American,-0.3,NA,118.05,118.05,% Change from 2011 - 2016,Race
-Black or African American,-0.87,NA,147,147,% Change from 2011 - 2016,Education
+Male,0.31,-0.08,147,147,% Change from 2011 - 2016,Education
 Female,-0.01,2.64,1,1,% Change from 2011 - 2016,Gender
 Female,0.19,2.85,2,2,% Change from 2011 - 2016,Gender
 Female,0.27,-0.49,3,3,% Change from 2011 - 2016,Gender
@@ -553,20 +553,20 @@ Female,-0.15,3.13,12,12,% Change from 2011 - 2016,Gender
 Female,0.23,-0.1,14,14,% Change from 2011 - 2016,Gender
 Female,-0.05,0.31,118.05,118.05,% Change from 2011 - 2016,Gender
 Female,0.01,-0.33,147,147,% Change from 2011 - 2016,Race
-High school graduate (includes equivalency),0.14,10.46,1,1,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.18,0.61,2,2,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.49,-1,3,3,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.05,0.64,4,4,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.08,1.28,5,5,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.19,1.12,6,6,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.24,-0.69,7,7,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),0,0.06,8,8,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),0.32,-0.68,9,9,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),0.05,0.27,10,10,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.16,-0.34,11,11,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.09,0.45,12,12,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),0.13,0.08,14,14,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.12,NA,118.05,118.05,% Change from 2011 - 2016,Education
+Some college or associates degree,380,0.43,1,1,2011,Education
+Some college or associates degree,232,0,2,2,2011,Education
+Some college or associates degree,738,0.19,3,3,2011,Education
+Some college or associates degree,310,0,4,4,2011,Education
+Some college or associates degree,548,0.24,5,5,2011,Education
+Some college or associates degree,465,0.03,6,6,2011,Education
+Some college or associates degree,436,0.11,7,7,2011,Education
+Some college or associates degree,353,0.21,8,8,2011,Education
+Some college or associates degree,279,0.35,9,9,2011,Education
+Some college or associates degree,392,0.13,10,10,2011,Education
+Some college or associates degree,370,0,11,11,2011,Education
+Some college or associates degree,687,0.02,12,12,2011,Education
+Some college or associates degree,469,0.06,14,14,2011,Education
+Some college or associates degree,292,0.05,118.05,118.05,2011,Education
 High school graduate (includes equivalency),0.22,-0.37,147,147,% Change from 2011 - 2016,Gender
 Hispanic or Latino origin,0.51,-0.24,1,1,% Change from 2011 - 2016,Ethnicity
 Hispanic or Latino origin,0.27,19.59,2,2,% Change from 2011 - 2016,Ethnicity
@@ -582,21 +582,21 @@ Hispanic or Latino origin,-0.11,0.11,11,11,% Change from 2011 - 2016,Ethnicity
 Hispanic or Latino origin,0.66,0.82,12,12,% Change from 2011 - 2016,Ethnicity
 Hispanic or Latino origin,0.71,0.3,14,14,% Change from 2011 - 2016,Ethnicity
 Hispanic or Latino origin,-0.05,5.98,118.05,118.05,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,-0.1,-0.15,147,147,% Change from 2011 - 2016,Education
-Less than high school graduate,0.29,-0.2,1,1,% Change from 2011 - 2016,Education
-Less than high school graduate,1.36,NA,2,2,% Change from 2011 - 2016,Education
-Less than high school graduate,1.13,1.68,3,3,% Change from 2011 - 2016,Education
-Less than high school graduate,0.82,-0.56,4,4,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.21,1.27,5,5,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.4,-1,6,6,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.17,-0.21,7,7,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.11,-1,8,8,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.15,0.55,9,9,% Change from 2011 - 2016,Education
-Less than high school graduate,0.15,-0.49,10,10,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.11,NA,11,11,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.62,1,12,12,% Change from 2011 - 2016,Education
-Less than high school graduate,0.43,0.77,14,14,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.17,0.62,118.05,118.05,% Change from 2011 - 2016,Education
+Some college or associates degree,298,0.14,147,147,2011,Education
+Some college or associates degree,304,0.09,1,1,2016,Education
+Some college or associates degree,425,0,2,2,2016,Education
+Some college or associates degree,764,0.01,3,3,2016,Education
+Some college or associates degree,339,0.09,4,4,2016,Education
+Some college or associates degree,460,0.03,5,5,2016,Education
+Some college or associates degree,493,0.09,6,6,2016,Education
+Some college or associates degree,511,0.05,7,7,2016,Education
+Some college or associates degree,412,0.06,8,8,2016,Education
+Some college or associates degree,507,0.15,9,9,2016,Education
+Some college or associates degree,374,0.31,10,10,2016,Education
+Some college or associates degree,392,0.19,11,11,2016,Education
+Some college or associates degree,849,0.04,12,12,2016,Education
+Some college or associates degree,525,0.05,14,14,2016,Education
+Some college or associates degree,304,0.2,118.05,118.05,2016,Education
 Less than high school graduate,-0.41,-0.38,147,147,% Change from 2011 - 2016,Ethnicity
 Male,0.1,-0.46,1,1,% Change from 2011 - 2016,Gender
 Male,0.1,0.28,2,2,% Change from 2011 - 2016,Gender
@@ -612,7 +612,7 @@ Male,-0.07,2.55,11,11,% Change from 2011 - 2016,Gender
 Male,-0.25,-0.14,12,12,% Change from 2011 - 2016,Gender
 Male,0.16,0.96,14,14,% Change from 2011 - 2016,Gender
 Male,0.01,4.53,118.05,118.05,% Change from 2011 - 2016,Gender
-Male,0.31,-0.08,147,147,% Change from 2011 - 2016,Education
+Some college or associates degree,203,0,147,147,2016,Education
 Native Hawaiian and Other Pacific Islander,0.2,NA,1,1,% Change from 2011 - 2016,Race
 Native Hawaiian and Other Pacific Islander,NA,NA,2,2,% Change from 2011 - 2016,Race
 Native Hawaiian and Other Pacific Islander,NA,NA,3,3,% Change from 2011 - 2016,Race
@@ -673,20 +673,20 @@ Population 25 to 64 years,-0.16,0.63,12,12,% Change from 2011 - 2016,Age
 Population 25 to 64 years,0.2,0.24,14,14,% Change from 2011 - 2016,Age
 Population 25 to 64 years,-0.08,3.17,118.05,118.05,% Change from 2011 - 2016,Age
 Population 25 to 64 years,-0.02,-0.25,147,147,% Change from 2011 - 2016,Age
-Some college or associate's degree,0.17,-0.79,1,1,% Change from 2011 - 2016,Education
-Some college or associate's degree,-0.2,NA,2,2,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.83,-0.93,3,3,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.04,NA,4,4,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.09,-0.89,5,5,% Change from 2011 - 2016,Education
-Some college or associate's degree,-0.16,2.72,6,6,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.06,-0.6,7,7,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.17,-0.7,8,8,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.17,-0.56,9,9,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.82,1.38,10,10,% Change from 2011 - 2016,Education
-Some college or associate's degree,-0.05,NA,11,11,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.06,1.22,12,12,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.24,-0.25,14,14,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.12,2.9,118.05,118.05,% Change from 2011 - 2016,Education
+Some college or associates degree,0.17,-0.79,1,1,% Change from 2011 - 2016,Education
+Some college or associates degree,-0.2,NA,2,2,% Change from 2011 - 2016,Education
+Some college or associates degree,0.83,-0.93,3,3,% Change from 2011 - 2016,Education
+Some college or associates degree,0.04,NA,4,4,% Change from 2011 - 2016,Education
+Some college or associates degree,0.09,-0.89,5,5,% Change from 2011 - 2016,Education
+Some college or associates degree,-0.16,2.72,6,6,% Change from 2011 - 2016,Education
+Some college or associates degree,0.06,-0.6,7,7,% Change from 2011 - 2016,Education
+Some college or associates degree,0.17,-0.7,8,8,% Change from 2011 - 2016,Education
+Some college or associates degree,0.17,-0.56,9,9,% Change from 2011 - 2016,Education
+Some college or associates degree,0.82,1.38,10,10,% Change from 2011 - 2016,Education
+Some college or associates degree,-0.05,NA,11,11,% Change from 2011 - 2016,Education
+Some college or associates degree,0.06,1.22,12,12,% Change from 2011 - 2016,Education
+Some college or associates degree,0.24,-0.25,14,14,% Change from 2011 - 2016,Education
+Some college or associates degree,0.12,2.9,118.05,118.05,% Change from 2011 - 2016,Education
 Some college or associate's degree,0.04,-0.13,147,147,% Change from 2011 - 2016,Age
 Some other race,NA,NA,1,1,% Change from 2011 - 2016,Race
 Some other race,NA,NA,2,2,% Change from 2011 - 2016,Race
@@ -702,7 +702,7 @@ Some other race,NA,NA,11,11,% Change from 2011 - 2016,Race
 Some other race,NA,NA,12,12,% Change from 2011 - 2016,Race
 Some other race,NA,NA,14,14,% Change from 2011 - 2016,Race
 Some other race,NA,NA,118.05,118.05,% Change from 2011 - 2016,Race
-Some other race,NA,NA,147,147,% Change from 2011 - 2016,Education
+Some other race,NA,NA,147,147,% Change from 2011 - 2016,Race
 White,0.24,-0.09,1,1,% Change from 2011 - 2016,Race
 White,-0.06,0.29,2,2,% Change from 2011 - 2016,Race
 White,0.14,-0.05,3,3,% Change from 2011 - 2016,Race
