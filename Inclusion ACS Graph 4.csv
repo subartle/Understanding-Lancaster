@@ -1,721 +1,691 @@
-Description,Total Count,Unemployment Rate,CT1,CT2,FilterOne,FilterTwo
-American Indian and Alaska Native,0,-,1,1,2011,Race
-American Indian and Alaska Native,0,-,2,2,2011,Race
-American Indian and Alaska Native,0,-,3,3,2011,Race
-American Indian and Alaska Native,0,-,4,4,2011,Race
-American Indian and Alaska Native,9,0,5,5,2011,Race
-American Indian and Alaska Native,9,-,6,6,2011,Race
-American Indian and Alaska Native,8,-,7,7,2011,Race
-American Indian and Alaska Native,21,0,8,8,2011,Race
-American Indian and Alaska Native,0,-,9,9,2011,Race
-American Indian and Alaska Native,9,0,10,10,2011,Race
-American Indian and Alaska Native,42,0,11,11,2011,Race
-American Indian and Alaska Native,0,-,12,12,2011,Race
-American Indian and Alaska Native,18,0,14,14,2011,Race
-American Indian and Alaska Native,1,-,118.05,118.05,2011,Race
-American Indian and Alaska Native,4,0,147,147,2011,Race
-Asian,27,0,1,1,2011,Race
-Asian,218,0.02,2,2,2011,Race
-Asian,100,0,3,3,2011,Race
-Asian,67,0,4,4,2011,Race
-Asian,175,0,5,5,2011,Race
-Asian,84,0,6,6,2011,Race
-Asian,91,0.33,7,7,2011,Race
-Asian,85,0,8,8,2011,Race
-Asian,57,0,9,9,2011,Race
-Asian,66,0,10,10,2011,Race
-Asian,120,0,11,11,2011,Race
-Asian,111,0,12,12,2011,Race
-Asian,59,0,14,14,2011,Race
-Asian,68,0.06,118.05,118.05,2011,Race
-Asian,0,-,147,147,2011,Race
-Bachelors degree or higher,243,0,1,1,2011,Education
-Bachelors degree or higher,232,0.04,2,2,2011,Education
-Bachelors degree or higher,456,0,3,3,2011,Education
-Bachelors degree or higher,516,0,4,4,2011,Education
-Bachelors degree or higher,564,0.02,5,5,2011,Education
-Bachelors degree or higher,565,0.06,6,6,2011,Education
-Bachelors degree or higher,339,0.11,7,7,2011,Education
-Bachelors degree or higher,133,0,8,8,2011,Education
-Bachelors degree or higher,253,0,9,9,2011,Education
-Bachelors degree or higher,117,0,10,10,2011,Education
-Bachelors degree or higher,401,0.12,11,11,2011,Education
-Bachelors degree or higher,339,0.03,12,12,2011,Education
-Bachelors degree or higher,113,0,14,14,2011,Education
-Bachelors degree or higher,389,0.02,118.05,118.05,2011,Education
-Bachelors degree or higher,100,0,147,147,2011,Education
-Black or African American,141,0.18,1,1,2011,Race
-Black or African American,267,0.56,2,2,2011,Race
-Black or African American,545,0.12,3,3,2011,Race
-Black or African American,352,0.14,4,4,2011,Race
-Black or African American,397,0.04,5,5,2011,Race
-Black or African American,172,0.15,6,6,2011,Race
-Black or African American,758,0.19,7,7,2011,Race
-Black or African American,690,0.21,8,8,2011,Race
-Black or African American,709,0.32,9,9,2011,Race
-Black or African American,538,0.22,10,10,2011,Race
-Black or African American,459,0.18,11,11,2011,Race
-Black or African American,399,0.17,12,12,2011,Race
-Black or African American,633,0.24,14,14,2011,Race
-Black or African American,121,0,118.05,118.05,2011,Race
-Black or African American,705,0.3,147,147,2011,Race
-Female,646,0.05,1,1,2011,Gender
-Female,792,0.03,2,2,2011,Gender
-Female,1586,0.16,3,3,2011,Gender
-Female,1274,0.04,4,4,2011,Gender
-Female,1425,0.06,5,5,2011,Gender
-Female,1150,0.07,6,6,2011,Gender
-Female,1413,0.11,7,7,2011,Gender
-Female,1399,0.2,8,8,2011,Gender
-Female,1138,0.2,9,9,2011,Gender
-Female,1128,0.12,10,10,2011,Gender
-Female,1127,0.1,11,11,2011,Gender
-Female,1519,0.02,12,12,2011,Gender
-Female,1440,0.15,14,14,2011,Gender
-Female,741,0.04,118.05,118.05,2011,Gender
-Female,1244,0.24,147,147,2011,Gender
-Bachelors degree or higher,402,0.06,1,1,2016,Education
-Bachelors degree or higher,445,0,2,2,2016,Education
-Bachelors degree or higher,643,0.07,3,3,2016,Education
-Bachelors degree or higher,732,0,4,4,2016,Education
-Bachelors degree or higher,782,0.01,5,5,2016,Education
-Bachelors degree or higher,814,0.01,6,6,2016,Education
-Bachelors degree or higher,340,0,7,7,2016,Education
-Bachelors degree or higher,170,0.05,8,8,2016,Education
-Bachelors degree or higher,154,0,9,9,2016,Education
-Bachelors degree or higher,169,0,10,10,2016,Education
-Bachelors degree or higher,383,0,11,11,2016,Education
-Bachelors degree or higher,385,0.04,12,12,2016,Education
-Bachelors degree or higher,127,0.22,14,14,2016,Education
-Bachelors degree or higher,350,0.03,118.05,118.05,2016,Education
-Bachelors degree or higher,101,0.06,147,147,2016,Education
-Hispanic or Latino origin,484,0.25,1,1,2011,Ethnicity
-Hispanic or Latino origin,567,0.02,2,2,2011,Ethnicity
-Hispanic or Latino origin,1008,0.29,3,3,2011,Ethnicity
-Hispanic or Latino origin,1047,0.04,4,4,2011,Ethnicity
-Hispanic or Latino origin,559,0.06,5,5,2011,Ethnicity
-Hispanic or Latino origin,330,0.31,6,6,2011,Ethnicity
-Hispanic or Latino origin,1376,0.18,7,7,2011,Ethnicity
-Hispanic or Latino origin,1854,0.19,8,8,2011,Ethnicity
-Hispanic or Latino origin,1011,0.14,9,9,2011,Ethnicity
-Hispanic or Latino origin,1247,0.14,10,10,2011,Ethnicity
-Hispanic or Latino origin,494,0.21,11,11,2011,Ethnicity
-Hispanic or Latino origin,937,0.08,12,12,2011,Ethnicity
-Hispanic or Latino origin,1748,0.11,14,14,2011,Ethnicity
-Hispanic or Latino origin,308,0.06,118.05,118.05,2011,Ethnicity
-Hispanic or Latino origin,1609,0.27,147,147,2011,Ethnicity
-Bachelors degree or higher,NA,NA,1,1,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.65,-1,2,2,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.92,NA,3,3,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.41,NA,4,4,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.42,-0.45,5,5,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.39,-0.79,6,6,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.44,-1,7,7,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0,NA,8,8,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.28,NA,9,9,% Change from 2011 - 2016,Education
-Bachelors degree or higher,-0.39,NA,10,10,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.44,-1,11,11,% Change from 2011 - 2016,Education
-Bachelors degree or higher,-0.04,0.59,12,12,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.14,NA,14,14,% Change from 2011 - 2016,Education
-Bachelors degree or higher,0.12,0.25,118.05,118.05,% Change from 2011 - 2016,Education
-Black or African American,-0.87,NA,147,147,% Change from 2011 - 2016,Education
-Male,777,0.21,1,1,2011,Gender
-Male,824,0.16,2,2,2011,Gender
-Male,1380,0.1,3,3,2011,Gender
-Male,1101,0.04,4,4,2011,Gender
-Male,1709,0.14,5,5,2011,Gender
-Male,1188,0.09,6,6,2011,Gender
-Male,1872,0.17,7,7,2011,Gender
-Male,765,0.14,8,8,2011,Gender
-Male,768,0.19,9,9,2011,Gender
-Male,1160,0.14,10,10,2011,Gender
-Male,1077,0.04,11,11,2011,Gender
-Male,1353,0.1,12,12,2011,Gender
-Male,1314,0.08,14,14,2011,Gender
-Male,528,0.03,118.05,118.05,2011,Gender
-Male,921,0.26,147,147,2011,Gender
-Native Hawaiian and Other Pacific Islander,0,-,1,1,2011,Race
-Native Hawaiian and Other Pacific Islander,20,0,2,2,2011,Race
-Native Hawaiian and Other Pacific Islander,13,-,3,3,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,4,4,2011,Race
-Native Hawaiian and Other Pacific Islander,18,-,5,5,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,6,6,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,7,7,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,8,8,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,9,9,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,10,10,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,11,11,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,12,12,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,14,14,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,118.05,118.05,2011,Race
-Native Hawaiian and Other Pacific Islander,0,-,147,147,2011,Race
-Not Hispanic or Latino,1136,0.11,1,1,2011,Ethnicity
-Not Hispanic or Latino,938,0.05,2,2,2011,Ethnicity
-Not Hispanic or Latino,1788,0.05,3,3,2011,Ethnicity
-Not Hispanic or Latino,1854,0.04,4,4,2011,Ethnicity
-Not Hispanic or Latino,3891,0.12,5,5,2011,Ethnicity
-Not Hispanic or Latino,2122,0.04,6,6,2011,Ethnicity
-Not Hispanic or Latino,1570,0.15,7,7,2011,Ethnicity
-Not Hispanic or Latino,584,0.13,8,8,2011,Ethnicity
-Not Hispanic or Latino,633,0.15,9,9,2011,Ethnicity
-Not Hispanic or Latino,909,0.14,10,10,2011,Ethnicity
-Not Hispanic or Latino,1559,0.09,11,11,2011,Ethnicity
-Not Hispanic or Latino,2347,0.05,12,12,2011,Ethnicity
-Not Hispanic or Latino,1148,0.17,14,14,2011,Ethnicity
-Not Hispanic or Latino,1252,0.01,118.05,118.05,2011,Ethnicity
-Not Hispanic or Latino,409,0.19,147,147,2011,Ethnicity
-Population 16 years and over,1775,0.14,1,1,2011,Age
-Population 16 years and over,1973,0.12,2,2,2011,Age
-Population 16 years and over,3513,0.13,3,3,2011,Age
-Population 16 years and over,3288,0.05,4,4,2011,Age
-Population 16 years and over,5089,0.1,5,5,2011,Age
-Population 16 years and over,2771,0.08,6,6,2011,Age
-Population 16 years and over,3782,0.17,7,7,2011,Age
-Population 16 years and over,2954,0.18,8,8,2011,Age
-Population 16 years and over,2294,0.2,9,9,2011,Age
-Population 16 years and over,2742,0.15,10,10,2011,Age
-Population 16 years and over,2681,0.13,11,11,2011,Age
-Population 16 years and over,3823,0.07,12,12,2011,Age
-Population 16 years and over,3562,0.16,14,14,2011,Age
-Population 16 years and over,1776,0.04,118.05,118.05,2011,Age
-Population 16 years and over,2629,0.25,147,147,2011,Age
-Population 25 to 64 years,1254,0.17,1,1,2011,Age
-Population 25 to 64 years,1431,0.03,2,2,2011,Age
-Population 25 to 64 years,2562,0.13,3,3,2011,Age
-Population 25 to 64 years,2018,0.04,4,4,2011,Age
-Population 25 to 64 years,2013,0.11,5,5,2011,Age
-Population 25 to 64 years,1925,0.05,6,6,2011,Age
-Population 25 to 64 years,2820,0.15,7,7,2011,Age
-Population 25 to 64 years,1707,0.14,8,8,2011,Age
-Population 25 to 64 years,1604,0.22,9,9,2011,Age
-Population 25 to 64 years,2041,0.12,10,10,2011,Age
-Population 25 to 64 years,1948,0.06,11,11,2011,Age
-Population 25 to 64 years,2503,0.05,12,12,2011,Age
-Population 25 to 64 years,2446,0.12,14,14,2011,Age
-Population 25 to 64 years,1175,0.03,118.05,118.05,2011,Age
-Population 25 to 64 years,1761,0.19,147,147,2011,Age
-High school graduate (includes equivalency),454,0.01,1,1,2011,Education
-High school graduate (includes equivalency),696,0.05,2,2,2011,Education
-High school graduate (includes equivalency),1083,0.15,3,3,2011,Education
-High school graduate (includes equivalency),796,0.03,4,4,2011,Education
-High school graduate (includes equivalency),678,0.05,5,5,2011,Education
-High school graduate (includes equivalency),629,0.06,6,6,2011,Education
-High school graduate (includes equivalency),1135,0.19,7,7,2011,Education
-High school graduate (includes equivalency),597,0.15,8,8,2011,Education
-High school graduate (includes equivalency),645,0.3,9,9,2011,Education
-High school graduate (includes equivalency),945,0.11,10,10,2011,Education
-High school graduate (includes equivalency),771,0.07,11,11,2011,Education
-High school graduate (includes equivalency),1143,0.06,12,12,2011,Education
-High school graduate (includes equivalency),1045,0.1,14,14,2011,Education
-High school graduate (includes equivalency),336,0,118.05,118.05,2011,Education
-High school graduate (includes equivalency),616,0.22,147,147,2011,Education
-Some other race,143,0,1,1,2011,Race
-Some other race,83,0,2,2,2011,Race
-Some other race,452,0.33,3,3,2011,Race
-Some other race,195,0.06,4,4,2011,Race
-Some other race,120,0.2,5,5,2011,Race
-Some other race,59,0,6,6,2011,Race
-Some other race,657,0.2,7,7,2011,Race
-Some other race,231,0.09,8,8,2011,Race
-Some other race,327,0,9,9,2011,Race
-Some other race,341,0.23,10,10,2011,Race
-Some other race,183,0.34,11,11,2011,Race
-Some other race,382,0.05,12,12,2011,Race
-Some other race,714,0,14,14,2011,Race
-Some other race,31,0,118.05,118.05,2011,Race
-Some other race,432,0.25,147,147,2011,Race
-White,1464,0.15,1,1,2011,Race
-White,1319,0.05,2,2,2011,Race
-White,2373,0.1,3,3,2011,Race
-White,2637,0.03,4,4,2011,Race
-White,4209,0.11,5,5,2011,Race
-White,2393,0.08,6,6,2011,Race
-White,2140,0.16,7,7,2011,Race
-White,1867,0.17,8,8,2011,Race
-White,1148,0.19,9,9,2011,Race
-White,1696,0.12,10,10,2011,Race
-White,1761,0.11,11,11,2011,Race
-White,2833,0.05,12,12,2011,Race
-White,2082,0.17,14,14,2011,Race
-White,1506,0.02,118.05,118.05,2011,Race
-White,1380,0.22,147,147,2011,Race
-American Indian and Alaska Native,29,0,1,1,2016,Race
-American Indian and Alaska Native,0,-,2,2,2016,Race
-American Indian and Alaska Native,0,-,3,3,2016,Race
-American Indian and Alaska Native,0,-,4,4,2016,Race
-American Indian and Alaska Native,9,0,5,5,2016,Race
-American Indian and Alaska Native,9,-,6,6,2016,Race
-American Indian and Alaska Native,45,0,7,7,2016,Race
-American Indian and Alaska Native,0,-,8,8,2016,Race
-American Indian and Alaska Native,0,-,9,9,2016,Race
-American Indian and Alaska Native,0,-,10,10,2016,Race
-American Indian and Alaska Native,19,0,11,11,2016,Race
-American Indian and Alaska Native,0,-,12,12,2016,Race
-American Indian and Alaska Native,0,-,14,14,2016,Race
-American Indian and Alaska Native,0,-,118.05,118.05,2016,Race
-American Indian and Alaska Native,20,1,147,147,2016,Race
-Asian,67,0,1,1,2016,Race
-Asian,372,0,2,2,2016,Race
-Asian,189,0,3,3,2016,Race
-Asian,176,0,4,4,2016,Race
-Asian,277,0,5,5,2016,Race
-Asian,77,0,6,6,2016,Race
-Asian,121,0,7,7,2016,Race
-Asian,71,0,8,8,2016,Race
-Asian,47,0,9,9,2016,Race
-Asian,59,0.54,10,10,2016,Race
-Asian,27,0,11,11,2016,Race
-Asian,130,0.08,12,12,2016,Race
-Asian,29,0,14,14,2016,Race
-Asian,99,0,118.05,118.05,2016,Race
-Asian,101,0.33,147,147,2016,Race
-High school graduate (includes equivalency),372,0.15,1,1,2016,Education
-High school graduate (includes equivalency),357,0.08,2,2,2016,Education
-High school graduate (includes equivalency),1028,0,3,3,2016,Education
-High school graduate (includes equivalency),729,0.05,4,4,2016,Education
-High school graduate (includes equivalency),546,0.11,5,5,2016,Education
-High school graduate (includes equivalency),479,0.12,6,6,2016,Education
-High school graduate (includes equivalency),1132,0.06,7,7,2016,Education
-High school graduate (includes equivalency),790,0.16,8,8,2016,Education
-High school graduate (includes equivalency),676,0.1,9,9,2016,Education
-High school graduate (includes equivalency),794,0.14,10,10,2016,Education
-High school graduate (includes equivalency),704,0.05,11,11,2016,Education
-High school graduate (includes equivalency),1294,0.09,12,12,2016,Education
-High school graduate (includes equivalency),921,0.11,14,14,2016,Education
-High school graduate (includes equivalency),409,0.16,118.05,118.05,2016,Education
-High school graduate (includes equivalency),930,0.19,147,147,2016,Education
-Black or African American,284,0.47,1,1,2016,Race
-Black or African American,251,0.23,2,2,2016,Race
-Black or African American,555,0.12,3,3,2016,Race
-Black or African American,504,0.32,4,4,2016,Race
-Black or African American,292,0.42,5,5,2016,Race
-Black or African American,342,0.29,6,6,2016,Race
-Black or African American,657,0.21,7,7,2016,Race
-Black or African American,456,0.08,8,8,2016,Race
-Black or African American,636,0.31,9,9,2016,Race
-Black or African American,550,0.15,10,10,2016,Race
-Black or African American,239,0.26,11,11,2016,Race
-Black or African American,808,0.1,12,12,2016,Race
-Black or African American,441,0.14,14,14,2016,Race
-Black or African American,16,0,118.05,118.05,2016,Race
-Black or African American,698,0.2,147,147,2016,Race
-Female,770,0.17,1,1,2016,Gender
-Female,1007,0.1,2,2,2016,Gender
-Female,1506,0.08,3,3,2016,Gender
-Female,1295,0.04,4,4,2016,Gender
-Female,1291,0.05,5,5,2016,Gender
-Female,1184,0.04,6,6,2016,Gender
-Female,1135,0,7,7,2016,Gender
-Female,1166,0.13,8,8,2016,Gender
-Female,1042,0.15,9,9,2016,Gender
-Female,947,0.2,10,10,2016,Gender
-Female,962,0.09,11,11,2016,Gender
-Female,1872,0.1,12,12,2016,Gender
-Female,1366,0.13,14,14,2016,Gender
-Female,748,0.05,118.05,118.05,2016,Gender
-Female,1416,0.15,147,147,2016,Gender
-High school graduate (includes equivalency),0.14,10.46,1,1,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.18,0.61,2,2,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.49,-1,3,3,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.05,0.64,4,4,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.08,1.28,5,5,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.19,1.12,6,6,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.24,-0.69,7,7,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),0,0.06,8,8,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),0.32,-0.68,9,9,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),0.05,0.27,10,10,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.16,-0.34,11,11,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.09,0.45,12,12,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),0.13,0.08,14,14,% Change from 2011 - 2016,Education
-High school graduate (includes equivalency),-0.12,NA,118.05,118.05,% Change from 2011 - 2016,Education
-Hispanic or Latino origin,-0.1,-0.15,147,147,% Change from 2011 - 2016,Race
-Hispanic or Latino origin,615,0.19,1,1,2016,Ethnicity
-Hispanic or Latino origin,900,0.45,2,2,2016,Ethnicity
-Hispanic or Latino origin,1319,0.13,3,3,2016,Ethnicity
-Hispanic or Latino origin,502,0.01,4,4,2016,Ethnicity
-Hispanic or Latino origin,496,0.03,5,5,2016,Ethnicity
-Hispanic or Latino origin,428,0.04,6,6,2016,Ethnicity
-Hispanic or Latino origin,1091,0.09,7,7,2016,Ethnicity
-Hispanic or Latino origin,1969,0.13,8,8,2016,Ethnicity
-Hispanic or Latino origin,1598,0.13,9,9,2016,Ethnicity
-Hispanic or Latino origin,1113,0.19,10,10,2016,Ethnicity
-Hispanic or Latino origin,822,0.24,11,11,2016,Ethnicity
-Hispanic or Latino origin,1604,0.15,12,12,2016,Ethnicity
-Hispanic or Latino origin,1664,0.14,14,14,2016,Ethnicity
-Hispanic or Latino origin,276,0.39,118.05,118.05,2016,Ethnicity
-Hispanic or Latino origin,2070,0.17,147,147,2016,Ethnicity
-Less than high school graduate,177,0.32,1,1,2011,Education
-Less than high school graduate,271,0,2,2,2011,Education
-Less than high school graduate,285,0.15,3,3,2011,Education
-Less than high school graduate,396,0.18,4,4,2011,Education
-Less than high school graduate,223,0.2,5,5,2011,Education
-Less than high school graduate,266,0.1,6,6,2011,Education
-Less than high school graduate,910,0.18,7,7,2011,Education
-Less than high school graduate,624,0.12,8,8,2011,Education
-Less than high school graduate,427,0.14,9,9,2011,Education
-Less than high school graduate,587,0.19,10,10,2011,Education
-Less than high school graduate,406,0,11,11,2011,Education
-Less than high school graduate,334,0.08,12,12,2011,Education
-Less than high school graduate,819,0.2,14,14,2011,Education
-Less than high school graduate,158,0.13,118.05,118.05,2011,Education
-Less than high school graduate,747,0.21,147,147,2011,Education
-Male,858,0.12,1,1,2016,Gender
-Male,1073,0.2,2,2,2016,Gender
-Male,1707,0.09,3,3,2016,Gender
-Male,1242,0.1,4,4,2016,Gender
-Male,1281,0.14,5,5,2016,Gender
-Male,1008,0.06,6,6,2016,Gender
-Male,2275,0.1,7,7,2016,Gender
-Male,1174,0.09,8,8,2016,Gender
-Male,1113,0.14,9,9,2016,Gender
-Male,1084,0.13,10,10,2016,Gender
-Male,807,0.14,11,11,2016,Gender
-Male,1573,0.09,12,12,2016,Gender
-Male,1325,0.16,14,14,2016,Gender
-Male,692,0.17,118.05,118.05,2016,Gender
-Male,1102,0.18,147,147,2016,Gender
-Native Hawaiian and Other Pacific Islander,0,-,1,1,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,2,2,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,3,3,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,4,4,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,5,5,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,6,6,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,7,7,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,8,8,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,9,9,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,10,10,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,11,11,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,12,12,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,14,14,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,118.05,118.05,2016,Race
-Native Hawaiian and Other Pacific Islander,0,-,147,147,2016,Race
-Not Hispanic or Latino,1004,0.09,1,1,2016,Ethnicity
-Not Hispanic or Latino,1076,0.01,2,2,2016,Ethnicity
-Not Hispanic or Latino,1866,0.1,3,3,2016,Ethnicity
-Not Hispanic or Latino,2418,0.06,4,4,2016,Ethnicity
-Not Hispanic or Latino,2721,0.08,5,5,2016,Ethnicity
-Not Hispanic or Latino,1736,0.05,6,6,2016,Ethnicity
-Not Hispanic or Latino,1945,0.06,7,7,2016,Ethnicity
-Not Hispanic or Latino,583,0.03,8,8,2016,Ethnicity
-Not Hispanic or Latino,488,0.04,9,9,2016,Ethnicity
-Not Hispanic or Latino,866,0.13,10,10,2016,Ethnicity
-Not Hispanic or Latino,1233,0.03,11,11,2016,Ethnicity
-Not Hispanic or Latino,1631,0.03,12,12,2016,Ethnicity
-Not Hispanic or Latino,1110,0.16,14,14,2016,Ethnicity
-Not Hispanic or Latino,1574,0.06,118.05,118.05,2016,Ethnicity
-Not Hispanic or Latino,562,0.29,147,147,2016,Ethnicity
-Population 16 years and over,1992,0.18,1,1,2016,Age
-Population 16 years and over,2599,0.17,2,2,2016,Age
-Population 16 years and over,3926,0.11,3,3,2016,Age
-Population 16 years and over,3579,0.1,4,4,2016,Age
-Population 16 years and over,3849,0.09,5,5,2016,Age
-Population 16 years and over,2587,0.07,6,6,2016,Age
-Population 16 years and over,3865,0.09,7,7,2016,Age
-Population 16 years and over,3097,0.1,8,8,2016,Age
-Population 16 years and over,2707,0.15,9,9,2016,Age
-Population 16 years and over,2504,0.16,10,10,2016,Age
-Population 16 years and over,2311,0.14,11,11,2016,Age
-Population 16 years and over,4177,0.09,12,12,2016,Age
-Population 16 years and over,3272,0.15,14,14,2016,Age
-Population 16 years and over,1964,0.11,118.05,118.05,2016,Age
-Population 16 years and over,3160,0.19,147,147,2016,Age
-Population 25 to 64 years,1495,0.14,1,1,2016,Age
-Population 25 to 64 years,1803,0.07,2,2,2016,Age
-Population 25 to 64 years,2954,0.07,3,3,2016,Age
-Population 25 to 64 years,2111,0.04,4,4,2016,Age
-Population 25 to 64 years,1921,0.06,5,5,2016,Age
-Population 25 to 64 years,2006,0.05,6,6,2016,Age
-Population 25 to 64 years,2797,0.05,7,7,2016,Age
-Population 25 to 64 years,1903,0.09,8,8,2016,Age
-Population 25 to 64 years,1830,0.13,9,9,2016,Age
-Population 25 to 64 years,1861,0.16,10,10,2016,Age
-Population 25 to 64 years,1632,0.08,11,11,2016,Age
-Population 25 to 64 years,3006,0.08,12,12,2016,Age
-Population 25 to 64 years,2254,0.14,14,14,2016,Age
-Population 25 to 64 years,1157,0.13,118.05,118.05,2016,Age
-Population 25 to 64 years,2059,0.17,147,147,2016,Age
-Less than high school graduate,417,0.26,1,1,2016,Education
-Less than high school graduate,576,0.19,2,2,2016,Education
-Less than high school graduate,519,0.4,3,3,2016,Education
-Less than high school graduate,311,0.08,4,4,2016,Education
-Less than high school graduate,133,0.45,5,5,2016,Education
-Less than high school graduate,220,0,6,6,2016,Education
-Less than high school graduate,814,0.14,7,7,2016,Education
-Less than high school graduate,531,0,8,8,2016,Education
-Less than high school graduate,493,0.22,9,9,2016,Education
-Less than high school graduate,524,0.1,10,10,2016,Education
-Less than high school graduate,153,0.14,11,11,2016,Education
-Less than high school graduate,478,0.16,12,12,2016,Education
-Less than high school graduate,681,0.36,14,14,2016,Education
-Less than high school graduate,94,0.2,118.05,118.05,2016,Education
-Less than high school graduate,825,0.2,147,147,2016,Education
-Some other race,181,0.09,1,1,2016,Race
-Some other race,461,0.58,2,2,2016,Race
-Some other race,552,0.31,3,3,2016,Race
-Some other race,229,0.28,4,4,2016,Race
-Some other race,194,0,5,5,2016,Race
-Some other race,95,0,6,6,2016,Race
-Some other race,472,0.13,7,7,2016,Race
-Some other race,1194,0.1,8,8,2016,Race
-Some other race,634,0.13,9,9,2016,Race
-Some other race,383,0.14,10,10,2016,Race
-Some other race,438,0.31,11,11,2016,Race
-Some other race,450,0.21,12,12,2016,Race
-Some other race,382,0.22,14,14,2016,Race
-Some other race,120,0.5,118.05,118.05,2016,Race
-Some other race,537,0.24,147,147,2016,Race
-White,1371,0.14,1,1,2016,Race
-White,1503,0.06,2,2,2016,Race
-White,2579,0.09,3,3,2016,Race
-White,2646,0.06,4,4,2016,Race
-White,2977,0.07,5,5,2016,Race
-White,1976,0.04,6,6,2016,Race
-White,2342,0.06,7,7,2016,Race
-White,1289,0.13,8,8,2016,Race
-White,1351,0.07,9,9,2016,Race
-White,1356,0.17,10,10,2016,Race
-White,1544,0.07,11,11,2016,Race
-White,2620,0.06,12,12,2016,Race
-White,2162,0.15,14,14,2016,Race
-White,1662,0.07,118.05,118.05,2016,Race
-White,1482,0.17,147,147,2016,Race
-American Indian and Alaska Native,NA,NA,1,1,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,2,2,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,3,3,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,4,4,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,5,5,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,6,6,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,7,7,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,8,8,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,9,9,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,10,10,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,11,11,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,12,12,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,14,14,% Change from 2011 - 2016,Race
-American Indian and Alaska Native,NA,NA,118.05,118.05,% Change from 2011 - 2016,Race
-Asian,NA,NA,1,1,% Change from 2011 - 2016,Race
-Asian,NA,NA,2,2,% Change from 2011 - 2016,Race
-Asian,NA,NA,3,3,% Change from 2011 - 2016,Race
-Asian,NA,NA,4,4,% Change from 2011 - 2016,Race
-Asian,NA,NA,5,5,% Change from 2011 - 2016,Race
-Asian,NA,NA,6,6,% Change from 2011 - 2016,Race
-Asian,NA,NA,7,7,% Change from 2011 - 2016,Race
-Asian,NA,NA,8,8,% Change from 2011 - 2016,Race
-Asian,NA,NA,9,9,% Change from 2011 - 2016,Race
-Asian,NA,NA,10,10,% Change from 2011 - 2016,Race
-Asian,NA,NA,11,11,% Change from 2011 - 2016,Race
-Asian,NA,NA,12,12,% Change from 2011 - 2016,Race
-Asian,NA,NA,14,14,% Change from 2011 - 2016,Race
-Asian,NA,NA,118.05,118.05,% Change from 2011 - 2016,Race
-Asian,NA,NA,147,147,% Change from 2011 - 2016,Race
-Less than high school graduate,0.29,-0.2,1,1,% Change from 2011 - 2016,Education
-Less than high school graduate,1.36,NA,2,2,% Change from 2011 - 2016,Education
-Less than high school graduate,1.13,1.68,3,3,% Change from 2011 - 2016,Education
-Less than high school graduate,0.82,-0.56,4,4,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.21,1.27,5,5,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.4,-1,6,6,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.17,-0.21,7,7,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.11,-1,8,8,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.15,0.55,9,9,% Change from 2011 - 2016,Education
-Less than high school graduate,0.15,-0.49,10,10,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.11,NA,11,11,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.62,1,12,12,% Change from 2011 - 2016,Education
-Less than high school graduate,0.43,0.77,14,14,% Change from 2011 - 2016,Education
-Less than high school graduate,-0.17,0.62,118.05,118.05,% Change from 2011 - 2016,Education
-Bachelor's degree or higher,-0.1,NA,147,147,% Change from 2011 - 2016,Race
-Black or African American,0.01,1.69,1,1,% Change from 2011 - 2016,Race
-Black or African American,1.01,-0.58,2,2,% Change from 2011 - 2016,Race
-Black or African American,-0.06,0.03,3,3,% Change from 2011 - 2016,Race
-Black or African American,0.02,1.26,4,4,% Change from 2011 - 2016,Race
-Black or African American,0.43,9.27,5,5,% Change from 2011 - 2016,Race
-Black or African American,-0.26,0.9,6,6,% Change from 2011 - 2016,Race
-Black or African American,0.99,0.1,7,7,% Change from 2011 - 2016,Race
-Black or African American,-0.13,-0.64,8,8,% Change from 2011 - 2016,Race
-Black or African American,-0.34,-0.03,9,9,% Change from 2011 - 2016,Race
-Black or African American,-0.1,-0.29,10,10,% Change from 2011 - 2016,Race
-Black or African American,0.02,0.5,11,11,% Change from 2011 - 2016,Race
-Black or African American,-0.48,-0.4,12,12,% Change from 2011 - 2016,Race
-Black or African American,1.03,-0.44,14,14,% Change from 2011 - 2016,Race
-Black or African American,-0.3,NA,118.05,118.05,% Change from 2011 - 2016,Race
-Male,0.31,-0.08,147,147,% Change from 2011 - 2016,Education
-Female,-0.01,2.64,1,1,% Change from 2011 - 2016,Gender
-Female,0.19,2.85,2,2,% Change from 2011 - 2016,Gender
-Female,0.27,-0.49,3,3,% Change from 2011 - 2016,Gender
-Female,-0.05,0.09,4,4,% Change from 2011 - 2016,Gender
-Female,0.02,-0.12,5,5,% Change from 2011 - 2016,Gender
-Female,-0.09,-0.44,6,6,% Change from 2011 - 2016,Gender
-Female,0.03,-1,7,7,% Change from 2011 - 2016,Gender
-Female,-0.2,-0.35,8,8,% Change from 2011 - 2016,Gender
-Female,-0.17,-0.23,9,9,% Change from 2011 - 2016,Gender
-Female,-0.08,0.61,10,10,% Change from 2011 - 2016,Gender
-Female,-0.16,-0.11,11,11,% Change from 2011 - 2016,Gender
-Female,-0.15,3.13,12,12,% Change from 2011 - 2016,Gender
-Female,0.23,-0.1,14,14,% Change from 2011 - 2016,Gender
-Female,-0.05,0.31,118.05,118.05,% Change from 2011 - 2016,Gender
-Female,0.01,-0.33,147,147,% Change from 2011 - 2016,Race
-Some college or associates degree,380,0.43,1,1,2011,Education
-Some college or associates degree,232,0,2,2,2011,Education
-Some college or associates degree,738,0.19,3,3,2011,Education
-Some college or associates degree,310,0,4,4,2011,Education
-Some college or associates degree,548,0.24,5,5,2011,Education
-Some college or associates degree,465,0.03,6,6,2011,Education
-Some college or associates degree,436,0.11,7,7,2011,Education
-Some college or associates degree,353,0.21,8,8,2011,Education
-Some college or associates degree,279,0.35,9,9,2011,Education
-Some college or associates degree,392,0.13,10,10,2011,Education
-Some college or associates degree,370,0,11,11,2011,Education
-Some college or associates degree,687,0.02,12,12,2011,Education
-Some college or associates degree,469,0.06,14,14,2011,Education
-Some college or associates degree,292,0.05,118.05,118.05,2011,Education
-High school graduate (includes equivalency),0.22,-0.37,147,147,% Change from 2011 - 2016,Gender
-Hispanic or Latino origin,0.51,-0.24,1,1,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,0.27,19.59,2,2,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,0.59,-0.54,3,3,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,0.31,-0.79,4,4,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,-0.52,-0.4,5,5,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,-0.11,-0.86,6,6,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,0.3,-0.47,7,7,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,-0.21,-0.32,8,8,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,0.06,-0.1,9,9,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,0.58,0.37,10,10,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,-0.11,0.11,11,11,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,0.66,0.82,12,12,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,0.71,0.3,14,14,% Change from 2011 - 2016,Ethnicity
-Hispanic or Latino origin,-0.05,5.98,118.05,118.05,% Change from 2011 - 2016,Ethnicity
-Some college or associates degree,298,0.14,147,147,2011,Education
-Some college or associates degree,304,0.09,1,1,2016,Education
-Some college or associates degree,425,0,2,2,2016,Education
-Some college or associates degree,764,0.01,3,3,2016,Education
-Some college or associates degree,339,0.09,4,4,2016,Education
-Some college or associates degree,460,0.03,5,5,2016,Education
-Some college or associates degree,493,0.09,6,6,2016,Education
-Some college or associates degree,511,0.05,7,7,2016,Education
-Some college or associates degree,412,0.06,8,8,2016,Education
-Some college or associates degree,507,0.15,9,9,2016,Education
-Some college or associates degree,374,0.31,10,10,2016,Education
-Some college or associates degree,392,0.19,11,11,2016,Education
-Some college or associates degree,849,0.04,12,12,2016,Education
-Some college or associates degree,525,0.05,14,14,2016,Education
-Some college or associates degree,304,0.2,118.05,118.05,2016,Education
-Less than high school graduate,-0.41,-0.38,147,147,% Change from 2011 - 2016,Ethnicity
-Male,0.1,-0.46,1,1,% Change from 2011 - 2016,Gender
-Male,0.1,0.28,2,2,% Change from 2011 - 2016,Gender
-Male,0.3,-0.11,3,3,% Change from 2011 - 2016,Gender
-Male,0.24,1.65,4,4,% Change from 2011 - 2016,Gender
-Male,0.13,0.01,5,5,% Change from 2011 - 2016,Gender
-Male,-0.25,-0.35,6,6,% Change from 2011 - 2016,Gender
-Male,-0.15,-0.44,7,7,% Change from 2011 - 2016,Gender
-Male,0.22,-0.35,8,8,% Change from 2011 - 2016,Gender
-Male,0.53,-0.27,9,9,% Change from 2011 - 2016,Gender
-Male,0.45,-0.06,10,10,% Change from 2011 - 2016,Gender
-Male,-0.07,2.55,11,11,% Change from 2011 - 2016,Gender
-Male,-0.25,-0.14,12,12,% Change from 2011 - 2016,Gender
-Male,0.16,0.96,14,14,% Change from 2011 - 2016,Gender
-Male,0.01,4.53,118.05,118.05,% Change from 2011 - 2016,Gender
-Some college or associates degree,203,0,147,147,2016,Education
-Native Hawaiian and Other Pacific Islander,0.2,NA,1,1,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,2,2,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,3,3,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,4,4,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,5,5,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,6,6,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,7,7,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,8,8,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,9,9,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,10,10,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,11,11,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,12,12,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,14,14,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,118.05,118.05,% Change from 2011 - 2016,Race
-Native Hawaiian and Other Pacific Islander,NA,NA,147,147,% Change from 2011 - 2016,Gender
-Not Hispanic or Latino,NA,-0.12,1,1,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,-0.12,-0.83,2,2,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,0.15,1.08,3,3,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,0.04,0.56,4,4,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,0.3,-0.38,5,5,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,-0.3,0.05,6,6,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,-0.18,-0.59,7,7,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,0.24,-0.79,8,8,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,0,-0.71,9,9,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,-0.23,-0.02,10,10,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,-0.05,-0.67,11,11,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,-0.21,-0.4,12,12,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,-0.31,-0.02,14,14,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,-0.03,3.43,118.05,118.05,% Change from 2011 - 2016,Ethnicity
-Not Hispanic or Latino,0.26,NA,147,147,% Change from 2011 - 2016,Race
-Population 16 years and over,0.37,0.28,1,1,% Change from 2011 - 2016,Age
-Population 16 years and over,0.12,0.49,2,2,% Change from 2011 - 2016,Age
-Population 16 years and over,0.32,-0.14,3,3,% Change from 2011 - 2016,Age
-Population 16 years and over,0.12,1.24,4,4,% Change from 2011 - 2016,Age
-Population 16 years and over,0.09,-0.15,5,5,% Change from 2011 - 2016,Age
-Population 16 years and over,-0.24,-0.13,6,6,% Change from 2011 - 2016,Age
-Population 16 years and over,-0.07,-0.49,7,7,% Change from 2011 - 2016,Age
-Population 16 years and over,0.02,-0.42,8,8,% Change from 2011 - 2016,Age
-Population 16 years and over,0.05,-0.26,9,9,% Change from 2011 - 2016,Age
-Population 16 years and over,0.18,0.08,10,10,% Change from 2011 - 2016,Age
-Population 16 years and over,-0.09,0.02,11,11,% Change from 2011 - 2016,Age
-Population 16 years and over,-0.14,0.31,12,12,% Change from 2011 - 2016,Age
-Population 16 years and over,0.09,-0.08,14,14,% Change from 2011 - 2016,Age
-Population 16 years and over,-0.08,1.82,118.05,118.05,% Change from 2011 - 2016,Age
-Population 16 years and over,0.11,0.48,147,147,% Change from 2011 - 2016,Ethnicity
-Population 25 to 64 years,0.2,-0.18,1,1,% Change from 2011 - 2016,Age
-Population 25 to 64 years,0.19,1.37,2,2,% Change from 2011 - 2016,Age
-Population 25 to 64 years,0.26,-0.48,3,3,% Change from 2011 - 2016,Age
-Population 25 to 64 years,0.15,0.11,4,4,% Change from 2011 - 2016,Age
-Population 25 to 64 years,0.05,-0.45,5,5,% Change from 2011 - 2016,Age
-Population 25 to 64 years,-0.05,0.02,6,6,% Change from 2011 - 2016,Age
-Population 25 to 64 years,0.04,-0.66,7,7,% Change from 2011 - 2016,Age
-Population 25 to 64 years,-0.01,-0.37,8,8,% Change from 2011 - 2016,Age
-Population 25 to 64 years,0.11,-0.38,9,9,% Change from 2011 - 2016,Age
-Population 25 to 64 years,0.14,0.28,10,10,% Change from 2011 - 2016,Age
-Population 25 to 64 years,-0.09,0.4,11,11,% Change from 2011 - 2016,Age
-Population 25 to 64 years,-0.16,0.63,12,12,% Change from 2011 - 2016,Age
-Population 25 to 64 years,0.2,0.24,14,14,% Change from 2011 - 2016,Age
-Population 25 to 64 years,-0.08,3.17,118.05,118.05,% Change from 2011 - 2016,Age
-Population 25 to 64 years,-0.02,-0.25,147,147,% Change from 2011 - 2016,Age
-Some college or associates degree,0.17,-0.79,1,1,% Change from 2011 - 2016,Education
-Some college or associates degree,-0.2,NA,2,2,% Change from 2011 - 2016,Education
-Some college or associates degree,0.83,-0.93,3,3,% Change from 2011 - 2016,Education
-Some college or associates degree,0.04,NA,4,4,% Change from 2011 - 2016,Education
-Some college or associates degree,0.09,-0.89,5,5,% Change from 2011 - 2016,Education
-Some college or associates degree,-0.16,2.72,6,6,% Change from 2011 - 2016,Education
-Some college or associates degree,0.06,-0.6,7,7,% Change from 2011 - 2016,Education
-Some college or associates degree,0.17,-0.7,8,8,% Change from 2011 - 2016,Education
-Some college or associates degree,0.17,-0.56,9,9,% Change from 2011 - 2016,Education
-Some college or associates degree,0.82,1.38,10,10,% Change from 2011 - 2016,Education
-Some college or associates degree,-0.05,NA,11,11,% Change from 2011 - 2016,Education
-Some college or associates degree,0.06,1.22,12,12,% Change from 2011 - 2016,Education
-Some college or associates degree,0.24,-0.25,14,14,% Change from 2011 - 2016,Education
-Some college or associates degree,0.12,2.9,118.05,118.05,% Change from 2011 - 2016,Education
-Some college or associate's degree,0.04,-0.13,147,147,% Change from 2011 - 2016,Age
-Some other race,NA,NA,1,1,% Change from 2011 - 2016,Race
-Some other race,NA,NA,2,2,% Change from 2011 - 2016,Race
-Some other race,NA,NA,3,3,% Change from 2011 - 2016,Race
-Some other race,NA,NA,4,4,% Change from 2011 - 2016,Race
-Some other race,NA,NA,5,5,% Change from 2011 - 2016,Race
-Some other race,NA,NA,6,6,% Change from 2011 - 2016,Race
-Some other race,NA,NA,7,7,% Change from 2011 - 2016,Race
-Some other race,NA,NA,8,8,% Change from 2011 - 2016,Race
-Some other race,NA,NA,9,9,% Change from 2011 - 2016,Race
-Some other race,NA,NA,10,10,% Change from 2011 - 2016,Race
-Some other race,NA,NA,11,11,% Change from 2011 - 2016,Race
-Some other race,NA,NA,12,12,% Change from 2011 - 2016,Race
-Some other race,NA,NA,14,14,% Change from 2011 - 2016,Race
-Some other race,NA,NA,118.05,118.05,% Change from 2011 - 2016,Race
-Some other race,NA,NA,147,147,% Change from 2011 - 2016,Race
-White,0.24,-0.09,1,1,% Change from 2011 - 2016,Race
-White,-0.06,0.29,2,2,% Change from 2011 - 2016,Race
-White,0.14,-0.05,3,3,% Change from 2011 - 2016,Race
-White,0.09,1.07,4,4,% Change from 2011 - 2016,Race
-White,0,-0.33,5,5,% Change from 2011 - 2016,Race
-White,-0.29,-0.5,6,6,% Change from 2011 - 2016,Race
-White,-0.17,-0.63,7,7,% Change from 2011 - 2016,Race
-White,0.09,-0.23,8,8,% Change from 2011 - 2016,Race
-White,-0.31,-0.63,9,9,% Change from 2011 - 2016,Race
-White,0.18,0.38,10,10,% Change from 2011 - 2016,Race
-White,-0.2,-0.32,11,11,% Change from 2011 - 2016,Race
-White,-0.12,0.06,12,12,% Change from 2011 - 2016,Race
-White,-0.08,-0.14,14,14,% Change from 2011 - 2016,Race
-White,0.04,1.96,118.05,118.05,% Change from 2011 - 2016,Race
-White,0.1,-0.04,147,147,% Change from 2011 - 2016,Race
-,0.07,-0.23,147,147,% Change from 2011 - 2016,Race
+Description,Total Count,Unemployment Rate,Unemployed Population Count,Census Tract,Census Tract,FilterOne,FilterTwo
+16 to 19 years,109,0.00,0,1.00,1,2011,Age
+16 to 19 years,147,0.00,0,12.00,12,2016,Age
+16 to 19 years,122,0.08,9,6.00,6,2011,Age
+16 to 19 years,150,0.11,17,4.00,4,2011,Age
+16 to 19 years,124,0.21,26,118.05,118.05,2016,Age
+16 to 19 years,299,0.10,31,14.00,14,2016,Age
+16 to 19 years,337,0.09,32,8.00,8,2016,Age
+16 to 19 years,36,1.00,36,118.05,118.05,2011,Age
+16 to 19 years,158,0.28,44,9.00,9,2016,Age
+16 to 19 years,109,0.40,44,9.00,9,2011,Age
+16 to 19 years,253,0.22,54,3.00,3,2011,Age
+16 to 19 years,187,0.31,59,10.00,10,2016,Age
+16 to 19 years,119,0.51,60,11.00,11,2016,Age
+16 to 19 years,109,0.62,67,2.00,2,2011,Age
+16 to 19 years,996,0.08,77,5.00,5,2016,Age
+16 to 19 years,106,0.74,78,6.00,6,2016,Age
+16 to 19 years,269,0.31,84,12.00,12,2011,Age
+16 to 19 years,443,0.19,85,8.00,8,2011,Age
+16 to 19 years,234,0.40,92,147.00,147,2011,Age
+16 to 19 years,174,0.54,94,1.00,1,2016,Age
+16 to 19 years,264,0.44,116,2.00,2,2016,Age
+16 to 19 years,311,0.38,119,10.00,10,2011,Age
+16 to 19 years,290,0.44,126,7.00,7,2011,Age
+16 to 19 years,225,0.62,140,3.00,3,2016,Age
+16 to 19 years,1659,0.09,143,5.00,5,2011,Age
+16 to 19 years,196,0.80,157,7.00,7,2016,Age
+16 to 19 years,204,0.93,190,11.00,11,2011,Age
+16 to 19 years,442,0.47,206,147.00,147,2016,Age
+16 to 19 years,317,0.86,272,4.00,4,2016,Age
+16 to 19 years,448,0.62,279,14.00,14,2011,Age
+20 to 24 years,186,0.00,0,6.00,6,2016,Age
+20 to 24 years,613,0.00,0,7.00,7,2016,Age
+20 to 24 years,283,0.01,1,118.05,118.05,2016,Age
+20 to 24 years,169,0.04,6,1.00,1,2011,Age
+20 to 24 years,94,0.10,9,118.05,118.05,2011,Age
+20 to 24 years,357,0.04,15,4.00,4,2011,Age
+20 to 24 years,302,0.07,20,9.00,9,2011,Age
+20 to 24 years,133,0.21,27,1.00,1,2016,Age
+20 to 24 years,170,0.18,30,10.00,10,2016,Age
+20 to 24 years,465,0.07,33,7.00,7,2011,Age
+20 to 24 years,308,0.12,37,14.00,14,2011,Age
+20 to 24 years,247,0.18,43,10.00,10,2011,Age
+20 to 24 years,256,0.17,45,11.00,11,2011,Age
+20 to 24 years,404,0.11,45,3.00,3,2011,Age
+20 to 24 years,259,0.21,55,3.00,3,2016,Age
+20 to 24 years,369,0.15,56,12.00,12,2011,Age
+20 to 24 years,137,0.49,67,11.00,11,2016,Age
+20 to 24 years,325,0.22,71,9.00,9,2016,Age
+20 to 24 years,437,0.17,73,14.00,14,2016,Age
+20 to 24 years,459,0.16,75,147.00,147,2016,Age
+20 to 24 years,426,0.19,83,4.00,4,2016,Age
+20 to 24 years,185,0.48,90,2.00,2,2011,Age
+20 to 24 years,439,0.20,90,12.00,12,2016,Age
+20 to 24 years,413,0.22,90,6.00,6,2011,Age
+20 to 24 years,1121,0.08,92,5.00,5,2011,Age
+20 to 24 years,437,0.22,98,8.00,8,2016,Age
+20 to 24 years,651,0.23,148,5.00,5,2016,Age
+20 to 24 years,457,0.33,149,8.00,8,2011,Age
+20 to 24 years,404,0.48,193,147.00,147,2011,Age
+20 to 24 years,277,0.73,202,2.00,2,2016,Age
+20 to 64 years,1269,0.04,44,118.05,118.05,2011,Age
+20 to 64 years,2375,0.04,86,4.00,4,2011,Age
+20 to 64 years,2192,0.05,107,6.00,6,2016,Age
+20 to 64 years,1616,0.09,147,2.00,2,2011,Age
+20 to 64 years,1440,0.11,151,118.05,118.05,2016,Age
+20 to 64 years,2204,0.07,154,11.00,11,2011,Age
+20 to 64 years,3410,0.05,160,7.00,7,2016,Age
+20 to 64 years,2872,0.06,169,12.00,12,2011,Age
+20 to 64 years,2537,0.07,173,4.00,4,2016,Age
+20 to 64 years,2338,0.08,189,6.00,6,2011,Age
+20 to 64 years,1769,0.11,200,11.00,11,2016,Age
+20 to 64 years,1423,0.14,205,1.00,1,2011,Age
+20 to 64 years,1628,0.14,228,1.00,1,2016,Age
+20 to 64 years,2572,0.09,239,5.00,5,2016,Age
+20 to 64 years,2340,0.11,253,8.00,8,2016,Age
+20 to 64 years,3213,0.08,270,3.00,3,2016,Age
+20 to 64 years,2288,0.13,302,10.00,10,2011,Age
+20 to 64 years,2155,0.15,312,9.00,9,2016,Age
+20 to 64 years,3445,0.09,313,12.00,12,2016,Age
+20 to 64 years,2754,0.12,319,14.00,14,2011,Age
+20 to 64 years,3134,0.10,320,5.00,5,2011,Age
+20 to 64 years,2080,0.16,327,2.00,2,2016,Age
+20 to 64 years,2031,0.16,327,10.00,10,2016,Age
+20 to 64 years,1906,0.20,372,9.00,9,2011,Age
+20 to 64 years,2966,0.13,383,3.00,3,2011,Age
+20 to 64 years,2164,0.18,387,8.00,8,2011,Age
+20 to 64 years,2691,0.15,398,14.00,14,2016,Age
+20 to 64 years,2518,0.17,415,147.00,147,2016,Age
+20 to 64 years,3285,0.14,453,7.00,7,2011,Age
+20 to 64 years,2165,0.25,530,147.00,147,2011,Age
+25 to 64 years,1175,0.03,35,118.05,118.05,2011,Age
+25 to 64 years,1431,0.03,43,2.00,2,2011,Age
+25 to 64 years,2018,0.04,71,4.00,4,2011,Age
+25 to 64 years,1925,0.05,102,6.00,6,2011,Age
+25 to 64 years,1948,0.06,111,11.00,11,2011,Age
+25 to 64 years,2503,0.05,120,12.00,12,2011,Age
+25 to 64 years,1254,0.17,207,1.00,1,2011,Age
+25 to 64 years,2013,0.11,223,5.00,5,2011,Age
+25 to 64 years,1707,0.14,246,8.00,8,2011,Age
+25 to 64 years,2041,0.12,253,10.00,10,2011,Age
+25 to 64 years,2446,0.12,281,14.00,14,2011,Age
+25 to 64 years,1761,0.19,336,147.00,147,2011,Age
+25 to 64 years,2562,0.13,338,3.00,3,2011,Age
+25 to 64 years,1604,0.22,346,9.00,9,2011,Age
+25 to 64 years,2820,0.15,429,7.00,7,2011,Age
+25 to 64 years,2111,0.04,82,4.00,4,2016,Age
+25 to 64 years,2006,0.05,108,6.00,6,2016,Age
+25 to 64 years,1921,0.06,117,5.00,5,2016,Age
+25 to 64 years,1803,0.07,128,2.00,2,2016,Age
+25 to 64 years,1632,0.08,131,11.00,11,2016,Age
+25 to 64 years,1157,0.13,145,118.05,118.05,2016,Age
+25 to 64 years,2797,0.05,145,7.00,7,2016,Age
+25 to 64 years,1903,0.09,173,8.00,8,2016,Age
+25 to 64 years,1495,0.14,202,1.00,1,2016,Age
+25 to 64 years,2954,0.07,204,3.00,3,2016,Age
+25 to 64 years,3006,0.08,234,12.00,12,2016,Age
+25 to 64 years,1830,0.13,243,9.00,9,2016,Age
+25 to 64 years,1861,0.16,296,10.00,10,2016,Age
+25 to 64 years,2254,0.14,322,14.00,14,2016,Age
+25 to 64 years,2059,0.17,342,147.00,147,2016,Age
+65 to 74 years,78,0.00,0,147.00,147,2016,Age
+65 to 74 years,78,0.00,0,10.00,10,2011,Age
+65 to 74 years,137,0.00,0,11.00,11,2011,Age
+65 to 74 years,150,0.00,0,2.00,2,2016,Age
+65 to 74 years,153,0.00,0,5.00,5,2016,Age
+65 to 74 years,159,0.00,0,2.00,2,2011,Age
+65 to 74 years,181,0.00,0,6.00,6,2016,Age
+65 to 74 years,190,0.00,0,6.00,6,2011,Age
+65 to 74 years,194,0.00,0,147.00,147,2011,Age
+65 to 74 years,197,0.00,0,9.00,9,2011,Age
+65 to 74 years,199,0.00,0,1.00,1,2011,Age
+65 to 74 years,201,0.00,0,118.05,118.05,2011,Age
+65 to 74 years,213,0.00,0,3.00,3,2011,Age
+65 to 74 years,216,0.00,0,10.00,10,2016,Age
+65 to 74 years,220,0.00,0,8.00,8,2011,Age
+65 to 74 years,246,0.00,0,14.00,14,2011,Age
+65 to 74 years,288,0.00,0,9.00,9,2016,Age
+65 to 74 years,300,0.00,0,11.00,11,2016,Age
+65 to 74 years,316,0.00,0,8.00,8,2016,Age
+65 to 74 years,350,0.00,0,12.00,12,2011,Age
+65 to 74 years,365,0.00,0,4.00,4,2011,Age
+65 to 74 years,350,0.04,13,4.00,4,2016,Age
+65 to 74 years,115,0.14,16,1.00,1,2016,Age
+65 to 74 years,119,0.14,17,118.05,118.05,2016,Age
+65 to 74 years,314,0.07,21,3.00,3,2016,Age
+65 to 74 years,166,0.16,27,7.00,7,2016,Age
+65 to 74 years,326,0.10,32,12.00,12,2016,Age
+65 to 74 years,143,0.30,43,5.00,5,2011,Age
+65 to 74 years,175,0.27,47,14.00,14,2016,Age
+65 to 74 years,96,NA,NA,7.00,7,2011,Age
+75 years and over,75,0.00,0,1.00,1,2016,Age
+75 years and over,81,0.00,0,3.00,3,2011,Age
+75 years and over,82,0.00,0,9.00,9,2011,Age
+75 years and over,89,0.00,0,2.00,2,2011,Age
+75 years and over,93,0.00,0,7.00,7,2016,Age
+75 years and over,108,0.00,0,6.00,6,2016,Age
+75 years and over,114,0.00,0,14.00,14,2011,Age
+75 years and over,122,0.00,0,147.00,147,2016,Age
+75 years and over,127,0.00,0,8.00,8,2011,Age
+75 years and over,136,0.00,0,11.00,11,2011,Age
+75 years and over,174,0.00,0,3.00,3,2016,Age
+75 years and over,259,0.00,0,12.00,12,2016,Age
+75 years and over,398,0.53,210,4.00,4,2011,Age
+75 years and over,36,NA,NA,147.00,147,2011,Age
+75 years and over,44,NA,NA,1.00,1,2011,Age
+75 years and over,65,NA,NA,10.00,10,2011,Age
+75 years and over,70,NA,NA,10.00,10,2016,Age
+75 years and over,104,NA,NA,8.00,8,2016,Age
+75 years and over,105,NA,NA,2.00,2,2016,Age
+75 years and over,106,NA,NA,9.00,9,2016,Age
+75 years and over,107,NA,NA,14.00,14,2016,Age
+75 years and over,111,NA,NA,7.00,7,2011,Age
+75 years and over,121,NA,NA,6.00,6,2011,Age
+75 years and over,123,NA,NA,11.00,11,2016,Age
+75 years and over,128,NA,NA,5.00,5,2016,Age
+75 years and over,153,NA,NA,5.00,5,2011,Age
+75 years and over,270,NA,NA,118.05,118.05,2011,Age
+75 years and over,281,NA,NA,118.05,118.05,2016,Age
+75 years and over,332,NA,NA,12.00,12,2011,Age
+75 years and over,375,NA,NA,4.00,4,2016,Age
+American Indian and Alaska Native,4,0.00,0,147.00,147,2011,Race
+American Indian and Alaska Native,9,0.00,0,10.00,10,2011,Race
+American Indian and Alaska Native,9,0.00,0,5.00,5,2011,Race
+American Indian and Alaska Native,18,0.00,0,14.00,14,2011,Race
+American Indian and Alaska Native,21,0.00,0,8.00,8,2011,Race
+American Indian and Alaska Native,42,0.00,0,11.00,11,2011,Race
+American Indian and Alaska Native,0,NA,NA,1.00,1,2011,Race
+American Indian and Alaska Native,0,NA,NA,12.00,12,2011,Race
+American Indian and Alaska Native,0,NA,NA,9.00,9,2011,Race
+American Indian and Alaska Native,0,NA,NA,4.00,4,2011,Race
+American Indian and Alaska Native,0,NA,NA,3.00,3,2011,Race
+American Indian and Alaska Native,0,NA,NA,2.00,2,2011,Race
+American Indian and Alaska Native,1,NA,NA,118.05,118.05,2011,Race
+American Indian and Alaska Native,8,NA,NA,7.00,7,2011,Race
+American Indian and Alaska Native,9,NA,NA,6.00,6,2011,Race
+American Indian and Alaska Native,9,0.00,0,5.00,5,2016,Race
+American Indian and Alaska Native,19,0.00,0,11.00,11,2016,Race
+American Indian and Alaska Native,29,0.00,0,1.00,1,2016,Race
+American Indian and Alaska Native,45,0.00,0,7.00,7,2016,Race
+American Indian and Alaska Native,20,1.00,20,147.00,147,2016,Race
+American Indian and Alaska Native,0,NA,NA,118.05,118.05,2016,Race
+American Indian and Alaska Native,0,NA,NA,14.00,14,2016,Race
+American Indian and Alaska Native,0,NA,NA,12.00,12,2016,Race
+American Indian and Alaska Native,0,NA,NA,10.00,10,2016,Race
+American Indian and Alaska Native,0,NA,NA,9.00,9,2016,Race
+American Indian and Alaska Native,0,NA,NA,8.00,8,2016,Race
+American Indian and Alaska Native,0,NA,NA,4.00,4,2016,Race
+American Indian and Alaska Native,0,NA,NA,3.00,3,2016,Race
+American Indian and Alaska Native,0,NA,NA,2.00,2,2016,Race
+American Indian and Alaska Native,9,NA,NA,6.00,6,2016,Race
+Asian,27,0.00,0,1.00,1,2011,Race
+Asian,57,0.00,0,9.00,9,2011,Race
+Asian,59,0.00,0,14.00,14,2011,Race
+Asian,66,0.00,0,10.00,10,2011,Race
+Asian,67,0.00,0,4.00,4,2011,Race
+Asian,84,0.00,0,6.00,6,2011,Race
+Asian,85,0.00,0,8.00,8,2011,Race
+Asian,100,0.00,0,3.00,3,2011,Race
+Asian,111,0.00,0,12.00,12,2011,Race
+Asian,120,0.00,0,11.00,11,2011,Race
+Asian,175,0.00,0,5.00,5,2011,Race
+Asian,218,0.02,4,2.00,2,2011,Race
+Asian,68,0.06,4,118.05,118.05,2011,Race
+Asian,91,0.33,30,7.00,7,2011,Race
+Asian,0,NA,NA,147.00,147,2011,Race
+Asian,27,0.00,0,11.00,11,2016,Race
+Asian,29,0.00,0,14.00,14,2016,Race
+Asian,47,0.00,0,9.00,9,2016,Race
+Asian,67,0.00,0,1.00,1,2016,Race
+Asian,71,0.00,0,8.00,8,2016,Race
+Asian,77,0.00,0,6.00,6,2016,Race
+Asian,99,0.00,0,118.05,118.05,2016,Race
+Asian,121,0.00,0,7.00,7,2016,Race
+Asian,176,0.00,0,4.00,4,2016,Race
+Asian,189,0.00,0,3.00,3,2016,Race
+Asian,277,0.00,0,5.00,5,2016,Race
+Asian,372,0.00,0,2.00,2,2016,Race
+Asian,130,0.08,10,12.00,12,2016,Race
+Asian,59,0.54,32,10.00,10,2016,Race
+Asian,101,0.33,33,147.00,147,2016,Race
+Bachelors degree or higher,154,0.00,0,9.00,9,2016,Education
+Bachelors degree or higher,169,0.00,0,10.00,10,2016,Education
+Bachelors degree or higher,340,0.00,0,7.00,7,2016,Education
+Bachelors degree or higher,383,0.00,0,11.00,11,2016,Education
+Bachelors degree or higher,445,0.00,0,2.00,2,2016,Education
+Bachelors degree or higher,732,0.00,0,4.00,4,2016,Education
+Bachelors degree or higher,101,0.06,6,147.00,147,2016,Education
+Bachelors degree or higher,350,0.03,9,118.05,118.05,2016,Education
+Bachelors degree or higher,170,0.05,9,8.00,8,2016,Education
+Bachelors degree or higher,782,0.01,9,5.00,5,2016,Education
+Bachelors degree or higher,814,0.01,10,6.00,6,2016,Education
+Bachelors degree or higher,385,0.04,17,12.00,12,2016,Education
+Bachelors degree or higher,402,0.06,26,1.00,1,2016,Education
+Bachelors degree or higher,127,0.22,28,14.00,14,2016,Education
+Bachelors degree or higher,643,0.07,46,3.00,3,2016,Education
+Bachelors degree or higher,100,0.00,0,147.00,147,2011,Education
+Bachelors degree or higher,113,0.00,0,14.00,14,2011,Education
+Bachelors degree or higher,117,0.00,0,10.00,10,2011,Education
+Bachelors degree or higher,133,0.00,0,8.00,8,2011,Education
+Bachelors degree or higher,243,0.00,0,1.00,1,2011,Education
+Bachelors degree or higher,253,0.00,0,9.00,9,2011,Education
+Bachelors degree or higher,456,0.00,0,3.00,3,2011,Education
+Bachelors degree or higher,516,0.00,0,4.00,4,2011,Education
+Bachelors degree or higher,389,0.02,8,118.05,118.05,2011,Education
+Bachelors degree or higher,232,0.04,9,2.00,2,2011,Education
+Bachelors degree or higher,339,0.03,9,12.00,12,2011,Education
+Bachelors degree or higher,564,0.02,12,5.00,5,2011,Education
+Bachelors degree or higher,565,0.06,32,6.00,6,2011,Education
+Bachelors degree or higher,339,0.11,38,7.00,7,2011,Education
+Bachelors degree or higher,401,0.12,47,11.00,11,2011,Education
+Below poverty level,306,0.06,17,6.00,6,2016,Other Important Factors
+Below poverty level,441,0.17,74,7.00,7,2016,Other Important Factors
+Below poverty level,283,0.31,87,118.05,118.05,2016,Other Important Factors
+Below poverty level,265,0.49,129,12.00,12,2016,Other Important Factors
+Below poverty level,389,0.40,157,2.00,2,2016,Other Important Factors
+Below poverty level,677,0.23,158,1.00,1,2016,Other Important Factors
+Below poverty level,613,0.26,159,10.00,10,2016,Other Important Factors
+Below poverty level,703,0.24,169,9.00,9,2016,Other Important Factors
+Below poverty level,541,0.31,169,4.00,4,2016,Other Important Factors
+Below poverty level,792,0.24,193,3.00,3,2016,Other Important Factors
+Below poverty level,779,0.27,212,8.00,8,2016,Other Important Factors
+Below poverty level,808,0.29,230,147.00,147,2016,Other Important Factors
+Below poverty level,410,0.59,244,11.00,11,2016,Other Important Factors
+Below poverty level,612,0.45,277,5.00,5,2016,Other Important Factors
+Below poverty level,1013,0.31,314,14.00,14,2016,Other Important Factors
+Below poverty level,NA,NA,NA,1.00,1,2011,Other Important Factors
+Below poverty level,NA,NA,NA,147.00,147,2011,Other Important Factors
+Below poverty level,NA,NA,NA,118.05,118.05,2011,Other Important Factors
+Below poverty level,NA,NA,NA,14.00,14,2011,Other Important Factors
+Below poverty level,NA,NA,NA,12.00,12,2011,Other Important Factors
+Below poverty level,NA,NA,NA,11.00,11,2011,Other Important Factors
+Below poverty level,NA,NA,NA,10.00,10,2011,Other Important Factors
+Below poverty level,NA,NA,NA,9.00,9,2011,Other Important Factors
+Below poverty level,NA,NA,NA,8.00,8,2011,Other Important Factors
+Below poverty level,NA,NA,NA,7.00,7,2011,Other Important Factors
+Below poverty level,NA,NA,NA,6.00,6,2011,Other Important Factors
+Below poverty level,NA,NA,NA,5.00,5,2011,Other Important Factors
+Below poverty level,NA,NA,NA,4.00,4,2011,Other Important Factors
+Below poverty level,NA,NA,NA,3.00,3,2011,Other Important Factors
+Below poverty level,NA,NA,NA,2.00,2,2011,Other Important Factors
+Black or African American,121,0.00,0,118.05,118.05,2011,Race
+Black or African American,397,0.04,16,5.00,5,2011,Race
+Black or African American,141,0.18,25,1.00,1,2011,Race
+Black or African American,172,0.15,26,6.00,6,2011,Race
+Black or African American,352,0.14,50,4.00,4,2011,Race
+Black or African American,545,0.12,64,3.00,3,2011,Race
+Black or African American,399,0.17,68,12.00,12,2011,Race
+Black or African American,459,0.18,81,11.00,11,2011,Race
+Black or African American,538,0.22,116,10.00,10,2011,Race
+Black or African American,758,0.19,143,7.00,7,2011,Race
+Black or African American,690,0.21,147,8.00,8,2011,Race
+Black or African American,267,0.56,150,2.00,2,2011,Race
+Black or African American,633,0.24,154,14.00,14,2011,Race
+Black or African American,705,0.30,209,147.00,147,2011,Race
+Black or African American,709,0.32,226,9.00,9,2011,Race
+Black or African American,16,0.00,0,118.05,118.05,2016,Race
+Black or African American,456,0.08,35,8.00,8,2016,Race
+Black or African American,251,0.23,59,2.00,2,2016,Race
+Black or African American,441,0.14,60,14.00,14,2016,Race
+Black or African American,239,0.26,63,11.00,11,2016,Race
+Black or African American,555,0.12,67,3.00,3,2016,Race
+Black or African American,808,0.10,82,12.00,12,2016,Race
+Black or African American,550,0.15,85,10.00,10,2016,Race
+Black or African American,342,0.29,99,6.00,6,2016,Race
+Black or African American,292,0.42,123,5.00,5,2016,Race
+Black or African American,284,0.47,135,1.00,1,2016,Race
+Black or African American,657,0.21,136,7.00,7,2016,Race
+Black or African American,698,0.20,139,147.00,147,2016,Race
+Black or African American,504,0.32,160,4.00,4,2016,Race
+Black or African American,636,0.31,197,9.00,9,2016,Race
+Civilian Workforce (16 years and over),1776,0.04,69,118.05,118.05,2011,Other Important Factors
+Civilian Workforce (16 years and over),3288,0.05,151,4.00,4,2011,Other Important Factors
+Civilian Workforce (16 years and over),2587,0.07,179,6.00,6,2016,Other Important Factors
+Civilian Workforce (16 years and over),1964,0.11,216,118.05,118.05,2016,Other Important Factors
+Civilian Workforce (16 years and over),2771,0.08,219,6.00,6,2011,Other Important Factors
+Civilian Workforce (16 years and over),1973,0.12,231,2.00,2,2011,Other Important Factors
+Civilian Workforce (16 years and over),1775,0.14,247,1.00,1,2011,Other Important Factors
+Civilian Workforce (16 years and over),3823,0.07,256,12.00,12,2011,Other Important Factors
+Civilian Workforce (16 years and over),2311,0.14,312,11.00,11,2016,Other Important Factors
+Civilian Workforce (16 years and over),3097,0.10,316,8.00,8,2016,Other Important Factors
+Civilian Workforce (16 years and over),3865,0.09,332,7.00,7,2016,Other Important Factors
+Civilian Workforce (16 years and over),3849,0.09,339,5.00,5,2016,Other Important Factors
+Civilian Workforce (16 years and over),1992,0.18,355,1.00,1,2016,Other Important Factors
+Civilian Workforce (16 years and over),2681,0.13,357,11.00,11,2011,Other Important Factors
+Civilian Workforce (16 years and over),4177,0.09,368,12.00,12,2016,Other Important Factors
+Civilian Workforce (16 years and over),3579,0.10,369,4.00,4,2016,Other Important Factors
+Civilian Workforce (16 years and over),2707,0.15,398,9.00,9,2016,Other Important Factors
+Civilian Workforce (16 years and over),2504,0.16,398,10.00,10,2016,Other Important Factors
+Civilian Workforce (16 years and over),2742,0.15,403,10.00,10,2011,Other Important Factors
+Civilian Workforce (16 years and over),3926,0.11,440,3.00,3,2016,Other Important Factors
+Civilian Workforce (16 years and over),2599,0.17,452,2.00,2,2016,Other Important Factors
+Civilian Workforce (16 years and over),2294,0.20,454,9.00,9,2011,Other Important Factors
+Civilian Workforce (16 years and over),3513,0.13,457,3.00,3,2011,Other Important Factors
+Civilian Workforce (16 years and over),3272,0.15,488,14.00,14,2016,Other Important Factors
+Civilian Workforce (16 years and over),2954,0.18,523,8.00,8,2011,Other Important Factors
+Civilian Workforce (16 years and over),5089,0.10,524,5.00,5,2011,Other Important Factors
+Civilian Workforce (16 years and over),3562,0.16,577,14.00,14,2011,Other Important Factors
+Civilian Workforce (16 years and over),3160,0.19,594,147.00,147,2016,Other Important Factors
+Civilian Workforce (16 years and over),3782,0.17,635,7.00,7,2011,Other Important Factors
+Civilian Workforce (16 years and over),2629,0.25,657,147.00,147,2011,Other Important Factors
+Female,1135,0.00,0,7.00,7,2016,Sex
+Female,748,0.05,38,118.05,118.05,2016,Sex
+Female,1184,0.04,46,6.00,6,2016,Sex
+Female,1295,0.04,49,4.00,4,2016,Sex
+Female,1291,0.05,65,5.00,5,2016,Sex
+Female,962,0.09,82,11.00,11,2016,Sex
+Female,1007,0.10,101,2.00,2,2016,Sex
+Female,1506,0.08,122,3.00,3,2016,Sex
+Female,770,0.17,132,1.00,1,2016,Sex
+Female,1166,0.13,154,8.00,8,2016,Sex
+Female,1042,0.15,156,9.00,9,2016,Sex
+Female,1872,0.10,178,12.00,12,2016,Sex
+Female,1366,0.13,182,14.00,14,2016,Sex
+Female,947,0.20,186,10.00,10,2016,Sex
+Female,1416,0.15,211,147.00,147,2016,Sex
+Female,792,0.03,21,2.00,2,2011,Sex
+Female,741,0.04,29,118.05,118.05,2011,Sex
+Female,646,0.05,30,1.00,1,2011,Sex
+Female,1519,0.02,35,12.00,12,2011,Sex
+Female,1274,0.04,45,4.00,4,2011,Sex
+Female,1150,0.07,81,6.00,6,2011,Sex
+Female,1425,0.06,81,5.00,5,2011,Sex
+Female,1127,0.10,108,11.00,11,2011,Sex
+Female,1128,0.12,138,10.00,10,2011,Sex
+Female,1413,0.11,148,7.00,7,2011,Sex
+Female,1440,0.15,212,14.00,14,2011,Sex
+Female,1138,0.20,223,9.00,9,2011,Sex
+Female,1586,0.16,251,3.00,3,2011,Sex
+Female,1399,0.20,284,8.00,8,2011,Sex
+Female,1244,0.24,292,147.00,147,2011,Sex
+High school graduate (includes equivalency),1028,0.00,0,3.00,3,2016,Education
+High school graduate (includes equivalency),357,0.08,29,2.00,2,2016,Education
+High school graduate (includes equivalency),729,0.05,34,4.00,4,2016,Education
+High school graduate (includes equivalency),704,0.05,34,11.00,11,2016,Education
+High school graduate (includes equivalency),372,0.15,55,1.00,1,2016,Education
+High school graduate (includes equivalency),479,0.12,59,6.00,6,2016,Education
+High school graduate (includes equivalency),546,0.11,62,5.00,5,2016,Education
+High school graduate (includes equivalency),409,0.16,65,118.05,118.05,2016,Education
+High school graduate (includes equivalency),1132,0.06,66,7.00,7,2016,Education
+High school graduate (includes equivalency),676,0.10,66,9.00,9,2016,Education
+High school graduate (includes equivalency),921,0.11,103,14.00,14,2016,Education
+High school graduate (includes equivalency),794,0.14,114,10.00,10,2016,Education
+High school graduate (includes equivalency),1294,0.09,120,12.00,12,2016,Education
+High school graduate (includes equivalency),790,0.16,126,8.00,8,2016,Education
+High school graduate (includes equivalency),930,0.19,178,147.00,147,2016,Education
+High school graduate (includes equivalency),336,0.00,0,118.05,118.05,2011,Education
+High school graduate (includes equivalency),454,0.01,6,1.00,1,2011,Education
+High school graduate (includes equivalency),796,0.03,22,4.00,4,2011,Education
+High school graduate (includes equivalency),678,0.05,34,5.00,5,2011,Education
+High school graduate (includes equivalency),696,0.05,35,2.00,2,2011,Education
+High school graduate (includes equivalency),629,0.06,36,6.00,6,2011,Education
+High school graduate (includes equivalency),771,0.07,56,11.00,11,2011,Education
+High school graduate (includes equivalency),1143,0.06,73,12.00,12,2011,Education
+High school graduate (includes equivalency),597,0.15,90,8.00,8,2011,Education
+High school graduate (includes equivalency),945,0.11,107,10.00,10,2011,Education
+High school graduate (includes equivalency),1045,0.10,109,14.00,14,2011,Education
+High school graduate (includes equivalency),616,0.22,138,147.00,147,2011,Education
+High school graduate (includes equivalency),1083,0.15,160,3.00,3,2011,Education
+High school graduate (includes equivalency),645,0.30,195,9.00,9,2011,Education
+High school graduate (includes equivalency),1135,0.19,211,7.00,7,2011,Education
+Hispanic or Latino origin (of any race),502,0.01,4,4.00,4,2016,Ethnicity
+Hispanic or Latino origin (of any race),567,0.02,12,2.00,2,2011,Ethnicity
+Hispanic or Latino origin (of any race),496,0.03,16,5.00,5,2016,Ethnicity
+Hispanic or Latino origin (of any race),308,0.06,17,118.05,118.05,2011,Ethnicity
+Hispanic or Latino origin (of any race),428,0.04,18,6.00,6,2016,Ethnicity
+Hispanic or Latino origin (of any race),559,0.06,31,5.00,5,2011,Ethnicity
+Hispanic or Latino origin (of any race),1047,0.04,40,4.00,4,2011,Ethnicity
+Hispanic or Latino origin (of any race),937,0.08,78,12.00,12,2011,Ethnicity
+Hispanic or Latino origin (of any race),330,0.31,101,6.00,6,2011,Ethnicity
+Hispanic or Latino origin (of any race),1091,0.09,101,7.00,7,2016,Ethnicity
+Hispanic or Latino origin (of any race),494,0.21,104,11.00,11,2011,Ethnicity
+Hispanic or Latino origin (of any race),276,0.39,108,118.05,118.05,2016,Ethnicity
+Hispanic or Latino origin (of any race),615,0.19,114,1.00,1,2016,Ethnicity
+Hispanic or Latino origin (of any race),484,0.25,119,1.00,1,2011,Ethnicity
+Hispanic or Latino origin (of any race),1011,0.14,146,9.00,9,2011,Ethnicity
+Hispanic or Latino origin (of any race),1319,0.13,174,3.00,3,2016,Ethnicity
+Hispanic or Latino origin (of any race),1247,0.14,176,10.00,10,2011,Ethnicity
+Hispanic or Latino origin (of any race),822,0.24,193,11.00,11,2016,Ethnicity
+Hispanic or Latino origin (of any race),1748,0.11,194,14.00,14,2011,Ethnicity
+Hispanic or Latino origin (of any race),1598,0.13,206,9.00,9,2016,Ethnicity
+Hispanic or Latino origin (of any race),1113,0.19,215,10.00,10,2016,Ethnicity
+Hispanic or Latino origin (of any race),1664,0.14,240,14.00,14,2016,Ethnicity
+Hispanic or Latino origin (of any race),1376,0.18,241,7.00,7,2011,Ethnicity
+Hispanic or Latino origin (of any race),1604,0.15,242,12.00,12,2016,Ethnicity
+Hispanic or Latino origin (of any race),1969,0.13,248,8.00,8,2016,Ethnicity
+Hispanic or Latino origin (of any race),1008,0.29,289,3.00,3,2011,Ethnicity
+Hispanic or Latino origin (of any race),2070,0.17,344,147.00,147,2016,Ethnicity
+Hispanic or Latino origin (of any race),1854,0.19,345,8.00,8,2011,Ethnicity
+Hispanic or Latino origin (of any race),900,0.45,408,2.00,2,2016,Ethnicity
+Hispanic or Latino origin (of any race),1609,0.27,433,147.00,147,2011,Ethnicity
+Less than high school graduate,220,0.00,0,6.00,6,2016,Education
+Less than high school graduate,531,0.00,0,8.00,8,2016,Education
+Less than high school graduate,94,0.20,19,118.05,118.05,2016,Education
+Less than high school graduate,153,0.14,21,11.00,11,2016,Education
+Less than high school graduate,311,0.08,24,4.00,4,2016,Education
+Less than high school graduate,524,0.10,51,10.00,10,2016,Education
+Less than high school graduate,133,0.45,60,5.00,5,2016,Education
+Less than high school graduate,478,0.16,77,12.00,12,2016,Education
+Less than high school graduate,493,0.22,107,9.00,9,2016,Education
+Less than high school graduate,417,0.26,108,1.00,1,2016,Education
+Less than high school graduate,576,0.19,108,2.00,2,2016,Education
+Less than high school graduate,814,0.14,115,7.00,7,2016,Education
+Less than high school graduate,825,0.20,163,147.00,147,2016,Education
+Less than high school graduate,519,0.40,206,3.00,3,2016,Education
+Less than high school graduate,681,0.36,244,14.00,14,2016,Education
+Less than high school graduate,271,0.00,0,2.00,2,2011,Education
+Less than high school graduate,406,0.00,0,11.00,11,2011,Education
+Less than high school graduate,158,0.13,20,118.05,118.05,2011,Education
+Less than high school graduate,266,0.10,26,6.00,6,2011,Education
+Less than high school graduate,334,0.08,27,12.00,12,2011,Education
+Less than high school graduate,285,0.15,42,3.00,3,2011,Education
+Less than high school graduate,223,0.20,44,5.00,5,2011,Education
+Less than high school graduate,177,0.32,57,1.00,1,2011,Education
+Less than high school graduate,427,0.14,60,9.00,9,2011,Education
+Less than high school graduate,396,0.18,70,4.00,4,2011,Education
+Less than high school graduate,624,0.12,72,8.00,8,2011,Education
+Less than high school graduate,587,0.19,113,10.00,10,2011,Education
+Less than high school graduate,747,0.21,159,147.00,147,2011,Education
+Less than high school graduate,910,0.18,163,7.00,7,2011,Education
+Less than high school graduate,819,0.20,165,14.00,14,2011,Education
+Male,1008,0.06,59,6.00,6,2016,Sex
+Male,858,0.12,99,1.00,1,2016,Sex
+Male,1174,0.09,107,8.00,8,2016,Sex
+Male,807,0.14,115,11.00,11,2016,Sex
+Male,692,0.17,115,118.05,118.05,2016,Sex
+Male,1242,0.10,122,4.00,4,2016,Sex
+Male,1573,0.09,137,12.00,12,2016,Sex
+Male,1084,0.13,143,10.00,10,2016,Sex
+Male,1707,0.09,149,3.00,3,2016,Sex
+Male,1113,0.14,157,9.00,9,2016,Sex
+Male,1281,0.14,177,5.00,5,2016,Sex
+Male,1102,0.18,202,147.00,147,2016,Sex
+Male,1325,0.16,216,14.00,14,2016,Sex
+Male,2275,0.10,216,7.00,7,2016,Sex
+Male,1073,0.20,217,2.00,2,2016,Sex
+Male,528,0.03,16,118.05,118.05,2011,Sex
+Male,1101,0.04,41,4.00,4,2011,Sex
+Male,1077,0.04,43,11.00,11,2011,Sex
+Male,765,0.14,108,8.00,8,2011,Sex
+Male,1188,0.09,108,6.00,6,2011,Sex
+Male,1314,0.08,109,14.00,14,2011,Sex
+Male,824,0.16,130,2.00,2,2011,Sex
+Male,1380,0.10,135,3.00,3,2011,Sex
+Male,1353,0.10,137,12.00,12,2011,Sex
+Male,768,0.19,149,9.00,9,2011,Sex
+Male,1160,0.14,162,10.00,10,2011,Sex
+Male,777,0.21,165,1.00,1,2011,Sex
+Male,1709,0.14,234,5.00,5,2011,Sex
+Male,921,0.26,236,147.00,147,2011,Sex
+Male,1872,0.17,320,7.00,7,2011,Sex
+Native Hawaiian and Other Pacific Islander,20,0.00,0,2.00,2,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,1.00,1,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,147.00,147,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,118.05,118.05,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,14.00,14,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,12.00,12,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,11.00,11,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,10.00,10,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,9.00,9,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,8.00,8,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,7.00,7,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,6.00,6,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,4.00,4,2011,Race
+Native Hawaiian and Other Pacific Islander,13,NA,NA,3.00,3,2011,Race
+Native Hawaiian and Other Pacific Islander,18,NA,NA,5.00,5,2011,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,1.00,1,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,147.00,147,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,118.05,118.05,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,14.00,14,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,12.00,12,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,11.00,11,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,10.00,10,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,9.00,9,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,8.00,8,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,7.00,7,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,6.00,6,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,5.00,5,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,4.00,4,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,3.00,3,2016,Race
+Native Hawaiian and Other Pacific Islander,0,NA,NA,2.00,2,2016,Race
+Some college or associates degree,203,0.00,0,147.00,147,2016,Education
+Some college or associates degree,425,0.00,0,2.00,2,2016,Education
+Some college or associates degree,764,0.01,11,3.00,3,2016,Education
+Some college or associates degree,460,0.03,12,5.00,5,2016,Education
+Some college or associates degree,511,0.05,23,7.00,7,2016,Education
+Some college or associates degree,525,0.05,24,14.00,14,2016,Education
+Some college or associates degree,412,0.06,26,8.00,8,2016,Education
+Some college or associates degree,304,0.09,28,1.00,1,2016,Education
+Some college or associates degree,339,0.09,31,4.00,4,2016,Education
+Some college or associates degree,849,0.04,34,12.00,12,2016,Education
+Some college or associates degree,493,0.09,46,6.00,6,2016,Education
+Some college or associates degree,304,0.20,59,118.05,118.05,2016,Education
+Some college or associates degree,392,0.19,76,11.00,11,2016,Education
+Some college or associates degree,507,0.15,78,9.00,9,2016,Education
+Some college or associates degree,374,0.31,115,10.00,10,2016,Education
+Some college or associates degree,232,0.00,0,2.00,2,2011,Education
+Some college or associates degree,310,0.00,0,4.00,4,2011,Education
+Some college or associates degree,370,0.00,0,11.00,11,2011,Education
+Some college or associates degree,465,0.03,12,6.00,6,2011,Education
+Some college or associates degree,687,0.02,12,12.00,12,2011,Education
+Some college or associates degree,292,0.05,15,118.05,118.05,2011,Education
+Some college or associates degree,469,0.06,28,14.00,14,2011,Education
+Some college or associates degree,298,0.14,42,147.00,147,2011,Education
+Some college or associates degree,436,0.11,49,7.00,7,2011,Education
+Some college or associates degree,392,0.13,51,10.00,10,2011,Education
+Some college or associates degree,353,0.21,74,8.00,8,2011,Education
+Some college or associates degree,279,0.35,97,9.00,9,2011,Education
+Some college or associates degree,548,0.24,133,5.00,5,2011,Education
+Some college or associates degree,738,0.19,139,3.00,3,2011,Education
+Some college or associates degree,380,0.43,165,1.00,1,2011,Education
+Some other race,31,0.00,0,118.05,118.05,2011,Race
+Some other race,59,0.00,0,6.00,6,2011,Race
+Some other race,83,0.00,0,2.00,2,2011,Race
+Some other race,143,0.00,0,1.00,1,2011,Race
+Some other race,327,0.00,0,9.00,9,2011,Race
+Some other race,714,0.00,0,14.00,14,2011,Race
+Some other race,195,0.06,11,4.00,4,2011,Race
+Some other race,382,0.05,20,12.00,12,2011,Race
+Some other race,231,0.09,22,8.00,8,2011,Race
+Some other race,120,0.20,24,5.00,5,2011,Race
+Some other race,183,0.34,61,11.00,11,2011,Race
+Some other race,341,0.23,79,10.00,10,2011,Race
+Some other race,432,0.25,107,147.00,147,2011,Race
+Some other race,657,0.20,131,7.00,7,2011,Race
+Some other race,452,0.33,148,3.00,3,2011,Race
+Some other race,95,0.00,0,6.00,6,2016,Race
+Some other race,194,0.00,0,5.00,5,2016,Race
+Some other race,181,0.09,16,1.00,1,2016,Race
+Some other race,383,0.14,52,10.00,10,2016,Race
+Some other race,472,0.13,59,7.00,7,2016,Race
+Some other race,120,0.50,60,118.05,118.05,2016,Race
+Some other race,229,0.28,64,4.00,4,2016,Race
+Some other race,634,0.13,81,9.00,9,2016,Race
+Some other race,382,0.22,85,14.00,14,2016,Race
+Some other race,450,0.21,96,12.00,12,2016,Race
+Some other race,1194,0.10,115,8.00,8,2016,Race
+Some other race,537,0.24,127,147.00,147,2016,Race
+Some other race,438,0.31,134,11.00,11,2016,Race
+Some other race,552,0.31,171,3.00,3,2016,Race
+Some other race,461,0.58,266,2.00,2,2016,Race
+White,1506,0.02,36,118.05,118.05,2011,Race
+White,1319,0.05,65,2.00,2,2011,Race
+White,2637,0.03,79,4.00,4,2011,Race
+White,2833,0.05,150,12.00,12,2011,Race
+White,1761,0.11,187,11.00,11,2011,Race
+White,2393,0.08,191,6.00,6,2011,Race
+White,1696,0.12,209,10.00,10,2011,Race
+White,1148,0.19,215,9.00,9,2011,Race
+White,1464,0.15,220,1.00,1,2011,Race
+White,2373,0.10,233,3.00,3,2011,Race
+White,1380,0.22,306,147.00,147,2011,Race
+White,1867,0.17,310,8.00,8,2011,Race
+White,2140,0.16,338,7.00,7,2011,Race
+White,2082,0.17,358,14.00,14,2011,Race
+White,4209,0.11,467,5.00,5,2011,Race
+White,1976,0.04,79,6.00,6,2016,Race
+White,1351,0.07,95,9.00,9,2016,Race
+White,1503,0.06,95,2.00,2,2016,Race
+White,1544,0.07,111,11.00,11,2016,Race
+White,1662,0.07,118,118.05,118.05,2016,Race
+White,2342,0.06,136,7.00,7,2016,Race
+White,2620,0.06,147,12.00,12,2016,Race
+White,1289,0.13,164,8.00,8,2016,Race
+White,2646,0.06,164,4.00,4,2016,Race
+White,1371,0.14,186,1.00,1,2016,Race
+White,2977,0.07,220,5.00,5,2016,Race
+White,1356,0.17,231,10.00,10,2016,Race
+White,2579,0.09,240,3.00,3,2016,Race
+White,1482,0.17,255,147.00,147,2016,Race
+White,2162,0.15,320,14.00,14,2016,Race
+"White alone, not Hispanic or Latino",1076,0.01,10,2.00,2,2016,Ethnicity
+"White alone, not Hispanic or Latino",583,0.03,16,8.00,8,2016,Ethnicity
+"White alone, not Hispanic or Latino",1252,0.01,18,118.05,118.05,2011,Ethnicity
+"White alone, not Hispanic or Latino",488,0.04,21,9.00,9,2016,Ethnicity
+"White alone, not Hispanic or Latino",1233,0.03,37,11.00,11,2016,Ethnicity
+"White alone, not Hispanic or Latino",1631,0.03,49,12.00,12,2016,Ethnicity
+"White alone, not Hispanic or Latino",938,0.05,50,2.00,2,2011,Ethnicity
+"White alone, not Hispanic or Latino",584,0.13,74,8.00,8,2011,Ethnicity
+"White alone, not Hispanic or Latino",1854,0.04,76,4.00,4,2011,Ethnicity
+"White alone, not Hispanic or Latino",409,0.19,79,147.00,147,2011,Ethnicity
+"White alone, not Hispanic or Latino",1736,0.05,80,6.00,6,2016,Ethnicity
+"White alone, not Hispanic or Latino",1788,0.05,88,3.00,3,2011,Ethnicity
+"White alone, not Hispanic or Latino",2122,0.04,93,6.00,6,2011,Ethnicity
+"White alone, not Hispanic or Latino",1004,0.09,94,1.00,1,2016,Ethnicity
+"White alone, not Hispanic or Latino",633,0.15,97,9.00,9,2011,Ethnicity
+"White alone, not Hispanic or Latino",1574,0.06,98,118.05,118.05,2016,Ethnicity
+"White alone, not Hispanic or Latino",866,0.13,114,10.00,10,2016,Ethnicity
+"White alone, not Hispanic or Latino",1945,0.06,117,7.00,7,2016,Ethnicity
+"White alone, not Hispanic or Latino",2347,0.05,117,12.00,12,2011,Ethnicity
+"White alone, not Hispanic or Latino",1136,0.11,122,1.00,1,2011,Ethnicity
+"White alone, not Hispanic or Latino",909,0.14,123,10.00,10,2011,Ethnicity
+"White alone, not Hispanic or Latino",1559,0.09,142,11.00,11,2011,Ethnicity
+"White alone, not Hispanic or Latino",2418,0.06,155,4.00,4,2016,Ethnicity
+"White alone, not Hispanic or Latino",562,0.29,162,147.00,147,2016,Ethnicity
+"White alone, not Hispanic or Latino",1110,0.16,182,14.00,14,2016,Ethnicity
+"White alone, not Hispanic or Latino",1866,0.10,190,3.00,3,2016,Ethnicity
+"White alone, not Hispanic or Latino",1148,0.17,193,14.00,14,2011,Ethnicity
+"White alone, not Hispanic or Latino",2721,0.08,207,5.00,5,2016,Ethnicity
+"White alone, not Hispanic or Latino",1570,0.15,231,7.00,7,2011,Ethnicity
+"White alone, not Hispanic or Latino",3891,0.12,475,5.00,5,2011,Ethnicity
+With any disability,229,0.01,2,118.05,118.05,2016,Other Important Factors
+With any disability,341,0.05,18,6.00,6,2016,Other Important Factors
+With any disability,447,0.16,70,3.00,3,2016,Other Important Factors
+With any disability,276,0.30,84,11.00,11,2016,Other Important Factors
+With any disability,278,0.30,84,8.00,8,2016,Other Important Factors
+With any disability,259,0.33,85,7.00,7,2016,Other Important Factors
+With any disability,443,0.20,88,10.00,10,2016,Other Important Factors
+With any disability,322,0.31,99,5.00,5,2016,Other Important Factors
+With any disability,425,0.25,106,4.00,4,2016,Other Important Factors
+With any disability,461,0.29,132,12.00,12,2016,Other Important Factors
+With any disability,658,0.20,134,14.00,14,2016,Other Important Factors
+With any disability,533,0.30,162,9.00,9,2016,Other Important Factors
+With any disability,292,0.57,165,1.00,1,2016,Other Important Factors
+With any disability,448,0.37,167,147.00,147,2016,Other Important Factors
+With any disability,361,0.48,173,2.00,2,2016,Other Important Factors
+With any disability,NA,NA,NA,1.00,1,2011,Other Important Factors
+With any disability,NA,NA,NA,147.00,147,2011,Other Important Factors
+With any disability,NA,NA,NA,118.05,118.05,2011,Other Important Factors
+With any disability,NA,NA,NA,14.00,14,2011,Other Important Factors
+With any disability,NA,NA,NA,12.00,12,2011,Other Important Factors
+With any disability,NA,NA,NA,11.00,11,2011,Other Important Factors
+With any disability,NA,NA,NA,10.00,10,2011,Other Important Factors
+With any disability,NA,NA,NA,9.00,9,2011,Other Important Factors
+With any disability,NA,NA,NA,8.00,8,2011,Other Important Factors
+With any disability,NA,NA,NA,7.00,7,2011,Other Important Factors
+With any disability,NA,NA,NA,6.00,6,2011,Other Important Factors
+With any disability,NA,NA,NA,5.00,5,2011,Other Important Factors
+With any disability,NA,NA,NA,4.00,4,2011,Other Important Factors
+With any disability,NA,NA,NA,3.00,3,2011,Other Important Factors
+With any disability,NA,NA,NA,2.00,2,2011,Other Important Factors
